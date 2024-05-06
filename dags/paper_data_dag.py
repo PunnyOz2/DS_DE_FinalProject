@@ -33,19 +33,14 @@ def read_data_to_redis():
                         r.rpush(
                             f"paper:{item['eid']}:references", json.dumps(reference))
                     r.sadd("papereids", item['eid'])
+                    r.sadd(f"papereids:{filename[-9:-5]}", item['eid'])
                     for affiliation in item['affiliations']:
+                        if ('country' in affiliation and str(affiliation['country']).lower() == 'thailand'):
+                            continue
                         r.rpush(
                             f"paper:{item['eid']}:affiliations", json.dumps(affiliation))
                     count += 1
                     print(f"{count}/{Maxcount} done")
-
-# r = redis.Redis(host='localhost', port=6379, db=0, decode_responses=True)
-# print(r.keys())
-# print(r.smembers("papereids"))
-# temp = r.srandmember("papereids")
-# print(temp)
-# print(r.get(f"paper:{temp}:references")[0])
-# print(json.loads(r.get(f"paper:{temp}:references"))[0])
 
 
 def print_random_paper():
