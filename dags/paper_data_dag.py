@@ -8,7 +8,10 @@ import zipfile
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 
+from given_data_function import cleaningProcess
+from scraped_data_function import clean_caller
 default_args = {
     'owner': 'Pun',
     'retries': 5,
@@ -20,10 +23,10 @@ def read_data_to_redis():
     r = redis.Redis(host='redis', port=6379, db=0, decode_responses=True)
     print('flushing db')
     r.flushdb()
-    for filename in os.listdir('data'):
-        f = os.path.join('data', filename)
+    for filename in os.listdir('/opt/cleaned_data'):
+        f = os.path.join('/opt/cleaned_data', filename)
         print('doing', f)
-        if os.path.isfile(f):
+        if os.path.isfile(f) and f.endswith('.json'):
             with open(f) as file:
                 data = json.load(file)
                 count = 0
@@ -51,38 +54,82 @@ def print_random_paper():
     print(r.lrange(f"paper:{temp}:affiliations", 0, -1))
 
 
-def download_data():
-    url = 'https://github.com/phumipatc/CU_Submissions/raw/77f67105fe542af0a92272313e9da65394192eac/Data_Sci/final_project/data/given_data.zip'
-    urllib.request.urlretrieve(url, 'given_data.zip')
-    with zipfile.ZipFile('given_data.zip', 'r') as zip_ref:
-        zip_ref.extractall('data')
-    url = 'https://github.com/phumipatc/CU_Submissions/raw/77f67105fe542af0a92272313e9da65394192eac/Data_Sci/final_project/data/scrape_data.zip'
-    urllib.request.urlretrieve(url, 'scrape_data.zip')
-    with zipfile.ZipFile('scrape_data.zip', 'r') as zip_ref:
-        zip_ref.extractall('data')
-
+def download_scraped_data():
+    url = 'https://github.com/mrmatchax/DataScienceProject/raw/master/raw_scopus.zip'
+    urllib.request.urlretrieve(url, '/opt/raw_data/raw_scraped_data.zip')
+    with zipfile.ZipFile('/opt/raw_data/raw_scraped_data.zip', 'r') as zip_ref:
+        zip_ref.extractall('/opt/raw_data/raw_scraped_data')
 
 with DAG(
-    dag_id='paper_data_dag_v2',
+    dag_id='viz_dag',
     default_args=default_args,
-    description='A DAG to read data to redis',
-    start_date=datetime(2021, 1, 1),
+    description='A DAG to visualize paper_data',
+    start_date=datetime(2023, 1, 1),
     catchup=False,
     # schedule_interval='@daily',
 ) as dag:
-    task0 = PythonOperator(
-        task_id='download_data',
-        python_callable=download_data,
-    )
 
-    task1 = PythonOperator(
-        task_id='read_data_to_redis',
-        python_callable=read_data_to_redis,
-    )
-
-    task2 = PythonOperator(
+    print_random_paper = PythonOperator(
         task_id='print_random_paper',
         python_callable=print_random_paper,
     )
 
-    task0 >> task1 >> task2
+    visualize_data_streamlit = BashOperator(
+        task_id='visualize_data_streamlit',
+        bash_command='streamlit run /opt/code/main.py',
+    )
+
+    print_random_paper >> visualize_data_streamlit
+
+with DAG(
+    dag_id='clean_data_to_redis_dag',
+    default_args=default_args,
+    description='A DAG to clean paper data and read to redis',
+    start_date=datetime(2023, 1, 1),
+    catchup=False,
+    # schedule_interval='@daily',
+) as dag:
+    
+    read_data_to_redis = PythonOperator(
+        task_id='read_data_to_redis',
+        python_callable=read_data_to_redis,
+    )
+
+    given_data_cleaning = PythonOperator(
+        task_id='given_data_cleaning',
+        python_callable=cleaningProcess,
+        op_args=['/opt/raw_data/raw_given_data', '/opt/cleaned_data'],
+    )
+
+    scraped_data_cleaning = PythonOperator(
+        task_id='scraped_data_cleaning',
+        python_callable=clean_caller,
+    )
+
+    trigger_viz_dag = TriggerDagRunOperator(
+        task_id='trigger_viz_dag',
+        trigger_dag_id='viz_dag',
+    )
+
+    [given_data_cleaning, scraped_data_cleaning] >> read_data_to_redis >> trigger_viz_dag
+
+with DAG(
+    dag_id='download_scraped_data_dag',
+    default_args=default_args,
+    description='A DAG to download raw paper data',
+    start_date=datetime(2023, 1, 1),
+    catchup=False,
+    # schedule_interval='@daily',
+) as dag:
+
+    trigger_clean_data_to_redis_dag = TriggerDagRunOperator(
+        task_id='trigger_clean_data_to_redis_dag',
+        trigger_dag_id='clean_data_to_redis_dag',
+    )
+
+    download_scraped_data = PythonOperator(
+        task_id='download_scraped_data',
+        python_callable=download_scraped_data,
+    )
+
+    download_scraped_data >> trigger_clean_data_to_redis_dag

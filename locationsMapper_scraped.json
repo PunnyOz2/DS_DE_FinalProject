@@ -1,0 +1,2489 @@
+{
+  "amphoe khlong luang, thailand": {
+    "latitude": 13.9616386,
+    "longitude": 100.51427889721532
+  },
+  "bangkok, thailand": { "latitude": 13.7524938, "longitude": 100.4935089 },
+  "khon kaen, thailand": { "latitude": 16.6022387, "longitude": 102.6352933 },
+  "phayao, thailand": { "latitude": 19.341673, "longitude": 100.1854539 },
+  "ho chi minh city, viet nam": {
+    "latitude": 10.7763897,
+    "longitude": 106.7011391
+  },
+  "chaing mai, thailand": { "latitude": 18.8698478, "longitude": 98.9799769 },
+  "nontaburi, thailand": { "latitude": 13.8787772, "longitude": 100.5099722 },
+  "hanoi, viet nam": { "latitude": 21.0283334, "longitude": 105.854041 },
+  "nakhon pathom, thailand": {
+    "latitude": 13.8918425,
+    "longitude": 100.0165659
+  },
+  "pathum thani, thailand": { "latitude": 14.048667, "longitude": 100.5640405 },
+  "nagaoka, japan": { "latitude": 37.446996, "longitude": 138.8512199 },
+  "rayong, thailand": { "latitude": 12.7943716, "longitude": 101.3705344 },
+  "sakon nakhon, thailand": {
+    "latitude": 17.1904453,
+    "longitude": 103.9730898
+  },
+  "nakhon ratchasima, thailand": {
+    "latitude": 15.2241917,
+    "longitude": 101.9313754
+  },
+  "kajang, malaysia": { "latitude": 2.9948437, "longitude": 101.7896595 },
+  "sydney, australia": { "latitude": -33.8698439, "longitude": 151.2082848 },
+  "seri iskandar, malaysia": {
+    "latitude": 4.3612524,
+    "longitude": 100.9508728
+  },
+  "minden, malaysia": {
+    "latitude": 5.3624194,
+    "longitude": 100.30365245565372
+  },
+  "braga, portugal": { "latitude": 41.5510583, "longitude": -8.4280045 },
+  "florianopolis, brazil": {
+    "latitude": -27.5973002,
+    "longitude": -48.5496098
+  },
+  "seoul, south korea": { "latitude": 37.5666791, "longitude": 126.9782914 },
+  "hatyai, thailand": {
+    "latitude": 6.93409855,
+    "longitude": 100.3879750591064
+  },
+  "ubon ratchathani, thailand": {
+    "latitude": 15.1879684,
+    "longitude": 105.3269544
+  },
+  "daejeon, south korea": { "latitude": 36.3497007, "longitude": 127.3849016 },
+  "kanchanaburi, thailand": { "latitude": 14.44019, "longitude": 99.2676727 },
+  "shanghai, china": { "latitude": 31.2323437, "longitude": 121.4691024 },
+  "pitsanulok, thailand": { "latitude": 16.9779975, "longitude": 100.3848239 },
+  "songkla, thailand": {
+    "latitude": 7.0069589,
+    "longitude": 100.50075963786517
+  },
+  "thonburi, thailand": { "latitude": 13.7605974, "longitude": 100.4787465 },
+  "chiangmai, thailand": {
+    "latitude": 18.80092635,
+    "longitude": 98.95215523032442
+  },
+  "coventry, united kingdom": {
+    "latitude": 52.4081812,
+    "longitude": -1.510477
+  },
+  "chiang rai, thailand": { "latitude": 19.7589517, "longitude": 99.6734592 },
+  "sheffield, united kingdom": {
+    "latitude": 53.3806626,
+    "longitude": -1.4702278
+  },
+  "toulouse, france": { "latitude": 43.6044622, "longitude": 1.4442469 },
+  "iligan, philippines": { "latitude": 8.2281556, "longitude": 124.2411508 },
+  "malang, indonesia": { "latitude": -7.9771206, "longitude": 112.6340291 },
+  "tokyo, japan": { "latitude": 35.6821936, "longitude": 139.762221 },
+  "hong kong, hong kong": { "latitude": 22.2793278, "longitude": 114.1628131 },
+  "nakhon si thammarat, thailand": {
+    "latitude": 8.6772337,
+    "longitude": 99.7309635
+  },
+  "busan, south korea": { "latitude": 35.1799528, "longitude": 129.0752365 },
+  "wuhan, china": { "latitude": 30.5951051, "longitude": 114.2999353 },
+  "min-hsiung, taiwan": { "latitude": 23.5552283, "longitude": 120.4316823 },
+  "sendai, japan": { "latitude": 38.2677554, "longitude": 140.8691498 },
+  "jakarta, indonesia": { "latitude": -6.175247, "longitude": 106.8270488 },
+  "eindhoven, netherlands": {
+    "latitude": 51.44855695,
+    "longitude": 5.450122521857143
+  },
+  "nakhon phanom, thailand": {
+    "latitude": 17.4032326,
+    "longitude": 104.7853098
+  },
+  "nancy, france": { "latitude": 48.6937223, "longitude": 6.1834097 },
+  "pitesti, romania": { "latitude": 44.8572343, "longitude": 24.8719422 },
+  "phra nakhon si ayutthaya, thailand": {
+    "latitude": 14.3189468,
+    "longitude": 100.5111681
+  },
+  "perth, australia": { "latitude": -31.9558933, "longitude": 115.8605855 },
+  "orlando, united states": {
+    "latitude": 28.5421109,
+    "longitude": -81.3790304
+  },
+  "bandung, indonesia": { "latitude": -6.9215529, "longitude": 107.6110212 },
+  "nomi, japan": { "latitude": 36.4392262, "longitude": 136.5424414 },
+  "phutthamonthon, thailand": {
+    "latitude": 13.8012211,
+    "longitude": 100.3243455
+  },
+  "magdeburg, germany": { "latitude": 52.1315889, "longitude": 11.6399609 },
+  "dublin, ireland": { "latitude": 53.3493795, "longitude": -6.2605593 },
+  "narathiwat, thailand": { "latitude": 6.4350352, "longitude": 101.8228923 },
+  "sari, iran": { "latitude": 36.5659626, "longitude": 53.0586327 },
+  "bangi, malaysia": { "latitude": 2.9040583, "longitude": 101.7862548 },
+  "maha sarakham, thailand": {
+    "latitude": 16.1880948,
+    "longitude": 103.2987346
+  },
+  "urbana, united states": { "latitude": 40.1117174, "longitude": -88.207301 },
+  "qingdao, china": { "latitude": 36.0637967, "longitude": 120.3192081 },
+  "bucheon, south korea": { "latitude": 37.5014422, "longitude": 126.7660139 },
+  "syracuse, united states": {
+    "latitude": 43.0481221,
+    "longitude": -76.1474244
+  },
+  "gif-sur-yvette, france": { "latitude": 48.7018823, "longitude": 2.134529 },
+  "turin, italy": { "latitude": 45.0677551, "longitude": 7.6824892 },
+  "villeurbanne, france": { "latitude": 45.7733573, "longitude": 4.8868454 },
+  "newcastle, united kingdom": {
+    "latitude": 54.9738474,
+    "longitude": -1.6131572
+  },
+  "kamphaeng saen, thailand": {
+    "latitude": 14.0026158,
+    "longitude": 99.990904
+  },
+  "st. louis, united states": {
+    "latitude": 38.6280278,
+    "longitude": -90.1910154
+  },
+  "chonburi, thailand": { "latitude": 13.1857117, "longitude": 101.1210777 },
+  "pathumtani, thailand": "not found",
+  "satun, thailand": { "latitude": 7.0366682, "longitude": 99.9615397 },
+  "porto, portugal": { "latitude": 41.1494512, "longitude": -8.6107884 },
+  "xiamen, china": { "latitude": 24.5438732, "longitude": 118.0768065 },
+  "turku, finland": { "latitude": 60.4517531, "longitude": 22.2670522 },
+  "helsinki, finland": { "latitude": 60.1674881, "longitude": 24.9427473 },
+  "clemson, united states": {
+    "latitude": 34.6850749,
+    "longitude": -82.8364111
+  },
+  "si racha, thailand": { "latitude": 13.1655011, "longitude": 100.9256709 },
+  "los angeles, united states": {
+    "latitude": 34.0536909,
+    "longitude": -118.242766
+  },
+  "albuquerque, united states": {
+    "latitude": 35.0841034,
+    "longitude": -106.650985
+  },
+  "da nang, viet nam": { "latitude": 16.068, "longitude": 108.212 },
+  "kent, united states": { "latitude": 33.1665316, "longitude": -100.7846477 },
+  "dhanbad, india": { "latitude": 23.7952809, "longitude": 86.4309638 },
+  "mumbai, india": { "latitude": 18.9733536, "longitude": 72.82810491917377 },
+  "bengaluru, india": { "latitude": 12.98815675, "longitude": 77.62260003796 },
+  "suita, japan": { "latitude": 34.764884, "longitude": 135.51735 },
+  "kawaguchi, japan": { "latitude": 35.8078228, "longitude": 139.7241054 },
+  "fukui, japan": { "latitude": 35.9263502, "longitude": 136.6068127 },
+  "najafabad, iran": { "latitude": 33.3322314, "longitude": 48.5924864 },
+  "north bangkok, thailand": {
+    "latitude": 13.810987650000001,
+    "longitude": 100.50617281187411
+  },
+  "bujumbura, burundi": { "latitude": -3.3638125, "longitude": 29.3675028 },
+  "johor bahru, malaysia": { "latitude": 1.503555, "longitude": 103.7495586 },
+  "aachen, germany": { "latitude": 50.776351, "longitude": 6.083862 },
+  "serdang, malaysia": { "latitude": 3.0340649, "longitude": 101.7055684 },
+  "konstanz, germany": { "latitude": 47.659216, "longitude": 9.1750718 },
+  "caen, france": { "latitude": 49.1813403, "longitude": -0.3635615 },
+  "zurich, switzerland": { "latitude": 47.3744489, "longitude": 8.5410422 },
+  "uppsala, sweden": { "latitude": 59.8586126, "longitude": 17.6387436 },
+  "petchaburi, thailand": {
+    "latitude": 19.90711445,
+    "longitude": 99.82972303082249
+  },
+  ", thailand": { "latitude": 7.4931858, "longitude": 124.724704 },
+  "cleveland, united states": {
+    "latitude": 41.4996574,
+    "longitude": -81.6936772
+  },
+  "dongguan, china": { "latitude": 23.0205969, "longitude": 113.7457788 },
+  "palmerston north, new zealand": {
+    "latitude": -40.356317,
+    "longitude": 175.6112388
+  },
+  "chiba, japan": { "latitude": 35.549399, "longitude": 140.2647303 },
+  "vancouver, canada": { "latitude": 49.2608724, "longitude": -123.113952 },
+  "yogyakarta, indonesia": {
+    "latitude": -7.9778383999999996,
+    "longitude": 110.36722565020224
+  },
+  "hawthorn, australia": { "latitude": -37.8244246, "longitude": 145.0317207 },
+  "melbourne, australia": { "latitude": -37.8142454, "longitude": 144.9631732 },
+  ", australia": { "latitude": -24.7761086, "longitude": 134.755 },
+  "kuala lumpur, malaysia": { "latitude": 3.1516964, "longitude": 101.6942371 },
+  "nakon pathom, thailand": {
+    "latitude": 13.8918425,
+    "longitude": 100.0165659
+  },
+  "makassar, indonesia": { "latitude": -5.1342962, "longitude": 119.4124282 },
+  "tangerang, indonesia": { "latitude": -6.1761924, "longitude": 106.6382161 },
+  "rennes, france": { "latitude": 48.1113387, "longitude": -1.6800198 },
+  "paris, france": { "latitude": 48.8534951, "longitude": 2.3483915 },
+  "champtoc\u00e9-sur-loire, france": {
+    "latitude": 47.4115866,
+    "longitude": -0.8649391
+  },
+  "istanbul, turkey": { "latitude": 41.006381, "longitude": 28.9758715 },
+  "bolton, united kingdom": { "latitude": 53.5782863, "longitude": -2.4300367 },
+  "padang, indonesia": { "latitude": -0.9247587, "longitude": 100.3632561 },
+  "vienna, austria": { "latitude": 48.2083537, "longitude": 16.3725042 },
+  "khan kaen, thailand": "not found",
+  "berlin, germany": { "latitude": 52.5170365, "longitude": 13.3888599 },
+  "stara zagora, bulgaria": { "latitude": 42.4248111, "longitude": 25.6257479 },
+  "beijing, china": { "latitude": 39.9057136, "longitude": 116.3912972 },
+  "i\u0307zmit, turkey": { "latitude": 40.7718611, "longitude": 29.9498078 },
+  "fukuoka, japan": { "latitude": 33.6251241, "longitude": 130.6180016 },
+  "abadan, iran": { "latitude": 30.3636097, "longitude": 48.2591475 },
+  "pittsburgh, united states": {
+    "latitude": 40.4416941,
+    "longitude": -79.9900861
+  },
+  "rockhampton, australia": {
+    "latitude": -23.3782137,
+    "longitude": 150.5134227
+  },
+  "brisbane, australia": { "latitude": -27.4689682, "longitude": 153.0234991 },
+  "london, united kingdom": {
+    "latitude": 51.4893335,
+    "longitude": -0.14405508452768728
+  },
+  "chaiyaphum, thailand": { "latitude": 16.2720349, "longitude": 101.7153824 },
+  "boston, united states": { "latitude": 42.3554334, "longitude": -71.060511 },
+  "kuala terengganu, malaysia": {
+    "latitude": 5.3296461,
+    "longitude": 103.1383265
+  },
+  "jaipur, india": { "latitude": 26.9154576, "longitude": 75.8189817 },
+  "haikou, china": { "latitude": 20.0462328, "longitude": 110.1956502 },
+  ", india": { "latitude": 22.3511148, "longitude": 78.6677428 },
+  "kochi, japan": { "latitude": 33.5680384, "longitude": 133.5394221 },
+  "leuven, belgium": { "latitude": 50.879202, "longitude": 4.7011675 },
+  "prague, czech republic": { "latitude": 50.0874654, "longitude": 14.4212535 },
+  "nijmegen, netherlands": { "latitude": 51.8474946, "longitude": 5.8637771 },
+  "gainesville, united states": {
+    "latitude": 29.6519684,
+    "longitude": -82.3249846
+  },
+  "mississippi state, united states": {
+    "latitude": 33.4386876,
+    "longitude": -88.79432320417112
+  },
+  "ratchaburi, thailand": { "latitude": 13.6317897, "longitude": 99.3558216 },
+  "lampung, indonesia": { "latitude": -4.8555039, "longitude": 105.0272986 },
+  "dhaka, bangladesh": { "latitude": 23.7644025, "longitude": 90.389015 },
+  "sayo district, japan": "not found",
+  "tha sala, thailand": { "latitude": 8.6681641, "longitude": 99.9302617 },
+  "bozeman, united states": {
+    "latitude": 45.6794293,
+    "longitude": -111.044047
+  },
+  "burnaby, canada": { "latitude": 49.2433804, "longitude": -122.972545 },
+  "chanthaburi, thailand": { "latitude": 12.9081033, "longitude": 102.0159145 },
+  "nakhon sawan, thailand": { "latitude": 15.7054772, "longitude": 99.9288481 },
+  "birmingham, united kingdom": {
+    "latitude": 52.4796992,
+    "longitude": -1.9026911
+  },
+  "muscat, oman": { "latitude": 23.5882019, "longitude": 58.3829448 },
+  "stockholm, sweden": { "latitude": 59.3251172, "longitude": 18.0710935 },
+  "scotts valley, united states": {
+    "latitude": 37.0510595,
+    "longitude": -122.014684
+  },
+  "cheongju, south korea": { "latitude": 36.6421169, "longitude": 127.4891742 },
+  "incheon, south korea": { "latitude": 37.456, "longitude": 126.7052 },
+  "kashiwazaki, japan": { "latitude": 37.3719095, "longitude": 138.5591406 },
+  "kusatsu, japan": { "latitude": 35.0179088, "longitude": 135.96046 },
+  "narashino, japan": { "latitude": 35.670572, "longitude": 140.018956 },
+  "ikoma, japan": { "latitude": 34.6915267, "longitude": 135.6961681 },
+  "singapore city, singapore": {
+    "latitude": 1.2899175,
+    "longitude": 103.8519072
+  },
+  "leiden, netherlands": { "latitude": 52.1594747, "longitude": 4.4908843 },
+  "leeds, united kingdom": { "latitude": 53.7974185, "longitude": -1.5437941 },
+  "phnom penh, cambodia": { "latitude": 11.568271, "longitude": 104.9224426 },
+  "mardan, pakistan": { "latitude": 34.1937969, "longitude": 72.0451467 },
+  "rawalpindi, pakistan": { "latitude": 33.5914237, "longitude": 73.0535122 },
+  "islamabad, pakistan": { "latitude": 33.6938118, "longitude": 73.0651511 },
+  "lahore, pakistan": { "latitude": 31.5656822, "longitude": 74.3141829 },
+  "wollongong, australia": { "latitude": -34.4243941, "longitude": 150.89385 },
+  "tsuruoka, japan": { "latitude": 38.7272187, "longitude": 139.8266292 },
+  "montreal, canada": { "latitude": 45.5031824, "longitude": -73.5698065 },
+  "nizhny novgorod, russian federation": {
+    "latitude": 56.27692915,
+    "longitude": 43.92129807149434
+  },
+  "kyoto, japan": { "latitude": 35.021041, "longitude": 135.7556075 },
+  "lopburi, thailand": { "latitude": 15.026458, "longitude": 100.8089178 },
+  "lafayette, united states": {
+    "latitude": 29.9978185,
+    "longitude": -83.2221527
+  },
+  "higashiosaka, japan": { "latitude": 34.678147, "longitude": 135.597728 },
+  "st ongkharak, thailand": {
+    "latitude": 14.1216261,
+    "longitude": 101.0014337
+  },
+  "keele, united kingdom": { "latitude": 53.0038078, "longitude": -2.2877425 },
+  "loughborough, united kingdom": {
+    "latitude": 52.7723859,
+    "longitude": -1.2077985
+  },
+  "philadelphia, united states": {
+    "latitude": 39.9527237,
+    "longitude": -75.1635262
+  },
+  "palermo, italy": { "latitude": 38.1112268, "longitude": 13.3524434 },
+  "limerick, ireland": { "latitude": 52.661252, "longitude": -8.6301239 },
+  "jinju, south korea": { "latitude": 35.1803459, "longitude": 128.1079953 },
+  ", south korea": { "latitude": 36.638392, "longitude": 127.6961188 },
+  "masan, south korea": { "latitude": 35.2363635, "longitude": 128.576728 },
+  "ulsan, south korea": { "latitude": 35.5391697, "longitude": 129.3119136 },
+  "lowell, united states": { "latitude": 42.6414437, "longitude": -71.3085329 },
+  "la jolla, united states": {
+    "latitude": 32.8401623,
+    "longitude": -117.2740777
+  },
+  "storrs, united states": { "latitude": 41.8084314, "longitude": -72.2495231 },
+  "phetchabun, thailand": { "latitude": 16.418027, "longitude": 101.1556825 },
+  "findlay, united states": {
+    "latitude": 41.0413873,
+    "longitude": -83.6503982
+  },
+  "houston, united states": {
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  "gandhinagar, india": { "latitude": 23.2232877, "longitude": 72.6492267 },
+  "haifa, israel": { "latitude": 32.799313, "longitude": 34.989571715728204 },
+  "varanasi, india": { "latitude": 25.3356491, "longitude": 83.0076292 },
+  "riverside, united states": {
+    "latitude": 33.7219991,
+    "longitude": -116.0372472
+  },
+  "new delhi, india": { "latitude": 28.6138954, "longitude": 77.2090057 },
+  "patum thani, thailand": { "latitude": 14.048667, "longitude": 100.5640405 },
+  "bekasi, indonesia": { "latitude": -6.2349858, "longitude": 106.9945444 },
+  "surabaya, indonesia": { "latitude": -7.2459717, "longitude": 112.7378266 },
+  "taichung, taiwan": { "latitude": 24.163162, "longitude": 120.6478282 },
+  "pattani, thailand": { "latitude": 6.6997443, "longitude": 101.3989917 },
+  "buriram, thailand": { "latitude": 14.6107101, "longitude": 102.6453162 },
+  "udon thani, thailand": { "latitude": 17.5211917, "longitude": 102.6680012 },
+  "uttaradit, thailand": { "latitude": 17.625163, "longitude": 100.4029452 },
+  "bochum, germany": { "latitude": 51.4818111, "longitude": 7.2196635 },
+  "university park, united states": {
+    "latitude": 41.4400344,
+    "longitude": -87.683377
+  },
+  "taipei, taiwan": { "latitude": 25.0375198, "longitude": 121.5636796 },
+  "waterford, ireland": { "latitude": 52.2609997, "longitude": -7.1119081 },
+  "tampere, finland": { "latitude": 61.4980214, "longitude": 23.7603118 },
+  "new york, united states": {
+    "latitude": 40.7127281,
+    "longitude": -74.0060152
+  },
+  "bojnord, iran": { "latitude": 37.4759752, "longitude": 57.3319881 },
+  "semarang, indonesia": { "latitude": -6.9903988, "longitude": 110.4229104 },
+  "giza, egypt": { "latitude": 29.9870753, "longitude": 31.2118063 },
+  "tsukuba, japan": { "latitude": 36.0833265, "longitude": 140.077279 },
+  "dresden, germany": { "latitude": 51.0493286, "longitude": 13.7381437 },
+  "shenzhen, china": { "latitude": 22.5445741, "longitude": 114.0545429 },
+  "villeneuve-d'ascq, france": {
+    "latitude": 50.6193174,
+    "longitude": 3.1314002
+  },
+  "evry, france": { "latitude": 48.26406, "longitude": 3.25604 },
+  "issy-les-moulineaux, france": {
+    "latitude": 48.8250508,
+    "longitude": 2.273457
+  },
+  "nanning, china": { "latitude": 22.8193063, "longitude": 108.3627211 },
+  "xinxiang, china": { "latitude": 35.308611, "longitude": 114.051111 },
+  "xi'an, china": { "latitude": 34.261004, "longitude": 108.9423363 },
+  "innsbruck, austria": { "latitude": 47.2654296, "longitude": 11.3927685 },
+  "novosibirsk, russian federation": {
+    "latitude": 55.0288307,
+    "longitude": 82.9226887
+  },
+  "west lafayette, united states": {
+    "latitude": 40.4258686,
+    "longitude": -86.9080655
+  },
+  "ahvaz, iran": { "latitude": 31.3230637, "longitude": 48.67932 },
+  "adelaide, australia": { "latitude": -34.9281805, "longitude": 138.5999312 },
+  "silchar, india": {
+    "latitude": 24.817861100000002,
+    "longitude": 92.75622075294373
+  },
+  "guwahati, india": { "latitude": 26.1805978, "longitude": 91.753943 },
+  "amherst, united states": {
+    "latitude": 37.5997548,
+    "longitude": -79.1483701
+  },
+  "cambridge, united kingdom": {
+    "latitude": 52.2055314,
+    "longitude": 0.1186637
+  },
+  "padua, italy": { "latitude": 45.4077172, "longitude": 11.8734455 },
+  "dayton, united states": { "latitude": 39.7589478, "longitude": -84.1916069 },
+  "chofu, japan": { "latitude": 35.660036, "longitude": 139.554815 },
+  "nottingham, united kingdom": {
+    "latitude": 52.9534193,
+    "longitude": -1.1496461
+  },
+  "bah, india": { "latitude": 26.87064935, "longitude": 78.49730072815453 },
+  "kingston, canada": { "latitude": 44.3054151, "longitude": -76.4283781 },
+  "bern, switzerland": { "latitude": 46.9484742, "longitude": 7.4521749 },
+  "khulna, bangladesh": { "latitude": 22.9372087, "longitude": 89.2852741 },
+  "graz, austria": { "latitude": 47.0708678, "longitude": 15.4382786 },
+  "st john's, canada": { "latitude": 47.5614705, "longitude": -52.7126162 },
+  "manchester, united kingdom": {
+    "latitude": 53.4794892,
+    "longitude": -2.2451148
+  },
+  "chachoengsao, thailand": {
+    "latitude": 13.6093192,
+    "longitude": 101.5467201
+  },
+  "horsholm, denmark": { "latitude": 55.8832986, "longitude": 12.5000112 },
+  "quetta, pakistan": { "latitude": 30.1957677, "longitude": 67.0172447 },
+  "balochistan, pakistan": { "latitude": 28.0, "longitude": 66.0 },
+  "nagoya, japan": { "latitude": 35.1851045, "longitude": 136.8998438 },
+  "hatfield, united kingdom": {
+    "latitude": 51.7634675,
+    "longitude": -0.2258741
+  },
+  "east lansing, united states": {
+    "latitude": 42.7320307,
+    "longitude": -84.4721678
+  },
+  "lemont, united states": { "latitude": 41.6737149, "longitude": -88.0016263 },
+  "severnyy, russian federation": {
+    "latitude": 77.29536569999999,
+    "longitude": 90.75701158311259
+  },
+  "colombo, sri lanka": { "latitude": 6.9388614, "longitude": 79.8542005 },
+  "moratuwa, sri lanka": { "latitude": 6.7746821, "longitude": 79.8826095 },
+  "coimbatore, india": { "latitude": 11.0018115, "longitude": 76.9628425 },
+  "mashhad, iran": { "latitude": 36.2974945, "longitude": 59.6059232 },
+  "tehran, iran": { "latitude": 35.6892523, "longitude": 51.3896004 },
+  "christchurch, new zealand": {
+    "latitude": -43.530955,
+    "longitude": 172.6364343
+  },
+  "tokushima, japan": { "latitude": 33.9196418, "longitude": 134.2509634 },
+  "novi sad, serbia": { "latitude": 45.2551338, "longitude": 19.8451756 },
+  "dalian, china": { "latitude": 38.9181714, "longitude": 121.6282945 },
+  "santa rita do sapuca\u00ed, brazil": {
+    "latitude": -22.2486968,
+    "longitude": -45.7064507
+  },
+  "changwon, south korea": { "latitude": 35.227956, "longitude": 128.6818586 },
+  "nishihara, japan": { "latitude": 26.227791, "longitude": 127.76054 },
+  "guangzhou, china": { "latitude": 23.1301964, "longitude": 113.2592945 },
+  "tezpur, india": { "latitude": 26.6229928, "longitude": 92.7976082 },
+  "baton rouge, united states": {
+    "latitude": 30.4494155,
+    "longitude": -91.1869659
+  },
+  "piscataway, united states": {
+    "latitude": 40.5462553,
+    "longitude": -74.4660408
+  },
+  "gottingen, germany": { "latitude": 51.5328328, "longitude": 9.9351811 },
+  "nanjing, china": { "latitude": 32.0438284, "longitude": 118.7788631 },
+  "odense, denmark": { "latitude": 55.3997225, "longitude": 10.3852104 },
+  "san antonio, united states": {
+    "latitude": 29.4246002,
+    "longitude": -98.4951405
+  },
+  "gdansk, poland": { "latitude": 54.42880315, "longitude": 18.79832701217957 },
+  "lodz, poland": { "latitude": 51.7728245, "longitude": 19.478485931307937 },
+  "vasteras, sweden": { "latitude": 59.6110992, "longitude": 16.5463679 },
+  "nagasaki, japan": { "latitude": 33.1154683, "longitude": 129.7874339 },
+  "okinawa, japan": { "latitude": 26.5707754, "longitude": 128.0255901 },
+  "mangilao, guam": { "latitude": 13.4439915, "longitude": 144.8050528119469 },
+  "buffalo, united states": {
+    "latitude": 37.7097669,
+    "longitude": -95.6974822
+  },
+  "perpignan, france": { "latitude": 42.6985304, "longitude": 2.8953121 },
+  "santa barbara, united states": {
+    "latitude": 34.4221319,
+    "longitude": -119.702667
+  },
+  "kaneohe, united states": {
+    "latitude": 21.4055,
+    "longitude": -157.7960716072044
+  },
+  "northridge, united states": {
+    "latitude": 34.2345615,
+    "longitude": -118.5369316
+  },
+  "miami, united states": { "latitude": 25.7741728, "longitude": -80.19362 },
+  "durham, united states": { "latitude": 35.996653, "longitude": -78.9018053 },
+  "knoxville, united states": {
+    "latitude": 35.9603948,
+    "longitude": -83.9210261
+  },
+  "kami, japan": { "latitude": 35.6321694, "longitude": 134.6293314 },
+  "southampton, united kingdom": {
+    "latitude": 50.9025349,
+    "longitude": -1.404189
+  },
+  "waltham, united states": {
+    "latitude": 42.3756401,
+    "longitude": -71.2358004
+  },
+  "vientiane, laos": { "latitude": 17.9640988, "longitude": 102.6133707 },
+  "nago, japan": { "latitude": 26.5919599, "longitude": 127.9774759 },
+  "ayuthaya, thailand": { "latitude": 13.7524938, "longitude": 100.4935089 },
+  "vandoeouvre-les-nancy, france": "not found",
+  "thuwal, saudi arabia": { "latitude": 22.2833454, "longitude": 39.1128145 },
+  "yokohama, japan": { "latitude": 35.4443947, "longitude": 139.6367727 },
+  "cali, colombia": { "latitude": 3.4108435, "longitude": -76.58121271109312 },
+  "dong nai, viet nam": { "latitude": 11.0355624, "longitude": 107.1881076 },
+  ", cambodia": { "latitude": 12.5433216, "longitude": 104.8144914 },
+  "nanchang, china": { "latitude": 28.687547, "longitude": 115.8540042 },
+  "fuzhou, china": { "latitude": 27.502232, "longitude": 116.415177 },
+  "mangalore, india": { "latitude": 12.8698101, "longitude": 74.8430082 },
+  "vellore, india": { "latitude": 12.7948109, "longitude": 79.0006410968549 },
+  "chennai, india": { "latitude": 13.0836939, "longitude": 80.270186 },
+  "hyderabad, india": { "latitude": 17.360589, "longitude": 78.4740613 },
+  "imizu, japan": { "latitude": 36.7304657, "longitude": 137.0753818 },
+  "jilin, china": { "latitude": 43.7289674, "longitude": 126.1997366 },
+  "heidelberg, germany": { "latitude": 49.4093582, "longitude": 8.694724 },
+  ", china": { "latitude": 35.000074, "longitude": 104.999927 },
+  "yokosuka, japan": { "latitude": 35.2730564, "longitude": 139.6653829 },
+  "huddersfield, united kingdom": {
+    "latitude": 53.6466645,
+    "longitude": -1.7822482
+  },
+  "koriyama, japan": { "latitude": 37.404937, "longitude": 140.333381 },
+  "yamagata, japan": { "latitude": 38.4746705, "longitude": 140.083237 },
+  "ithaca, united states": {
+    "latitude": 42.437417499999995,
+    "longitude": -76.54837235139263
+  },
+  "lincoln, new zealand": { "latitude": -43.6396099, "longitude": 172.4860237 },
+  "urbino, italy": { "latitude": 43.7262608, "longitude": 12.6363135 },
+  "sasebo, japan": { "latitude": 33.1799965, "longitude": 129.7152872 },
+  "bachok, malaysia": { "latitude": 5.9951191, "longitude": 102.3867413 },
+  "miyazaki, japan": { "latitude": 32.097681, "longitude": 131.294542 },
+  "osaka, japan": { "latitude": 34.7021912, "longitude": 135.4955866 },
+  "utsunomiya, japan": { "latitude": 36.5549677, "longitude": 139.8828776 },
+  "plymouth, united kingdom": {
+    "latitude": 50.3714122,
+    "longitude": -4.1424451
+  },
+  "kariya, japan": { "latitude": 34.974678, "longitude": 137.002791 },
+  ", japan": { "latitude": 36.5748441, "longitude": 139.2394179 },
+  "heraklion, greece": { "latitude": 35.33908, "longitude": 25.1332843 },
+  "krishnankoil, india": { "latitude": 9.5668016, "longitude": 77.6896369 },
+  "york, united kingdom": { "latitude": 53.9590555, "longitude": -1.0815361 },
+  "espoo, finland": { "latitude": 60.2047672, "longitude": 24.6568435 },
+  "linkoping, sweden": { "latitude": 58.4098135, "longitude": 15.6245252 },
+  "vaasa, finland": {
+    "latitude": 63.081820949999994,
+    "longitude": 21.479812522296804
+  },
+  "depok, indonesia": { "latitude": -6.40719, "longitude": 106.8158371 },
+  "arau, malaysia": { "latitude": 6.4307281, "longitude": 100.2718795 },
+  "mahasarakham, thailand": {
+    "latitude": 16.1944982,
+    "longitude": 103.2906827
+  },
+  "penrith, australia": { "latitude": -33.7511954, "longitude": 150.6941711 },
+  "wangmai, pathumwan, bangkok, thailand": "not found",
+  "bremen, germany": { "latitude": 53.0758196, "longitude": 8.8071646 },
+  "ansan, south korea": { "latitude": 37.3270474, "longitude": 126.7887966 },
+  "taiping, taiwan": { "latitude": 24.1264719, "longitude": 120.7185227 },
+  "kaohsiung, taiwan": { "latitude": 22.6203348, "longitude": 120.3120375 },
+  "sukkur, pakistan": { "latitude": 27.6961883, "longitude": 68.8588754 },
+  "karachi, pakistan": { "latitude": 24.8546842, "longitude": 67.0207055 },
+  "jeddah, saudi arabia": { "latitude": 21.5810088, "longitude": 39.1653612 },
+  "cheonan, south korea": { "latitude": 36.8150283, "longitude": 127.1140654 },
+  "al ahmadi, kuwait": {
+    "latitude": 28.867312599999998,
+    "longitude": 48.0223415376879
+  },
+  "peshawar, pakistan": { "latitude": 34.0123846, "longitude": 71.5787458 },
+  "zarqa, jordan": { "latitude": 32.0668425, "longitude": 36.0885771 },
+  "attock, pakistan": { "latitude": 33.7695323, "longitude": 72.3610911 },
+  "wuxi, china": { "latitude": 31.5776626, "longitude": 120.2952752 },
+  "bolzano, italy": {
+    "latitude": 46.655945450000004,
+    "longitude": 11.23021287087526
+  },
+  "chicago, united states": {
+    "latitude": 41.8755616,
+    "longitude": -87.6244212
+  },
+  "brno, czech republic": { "latitude": 49.1922443, "longitude": 16.6113382 },
+  "daegu, south korea": { "latitude": 35.8713, "longitude": 128.6018 },
+  ", iran": { "latitude": 32.6475314, "longitude": 54.5643516 },
+  "olathe, united states": { "latitude": 38.8838856, "longitude": -94.81887 },
+  "johannesburg, south africa": { "latitude": -26.205, "longitude": 28.049722 },
+  ", south africa": { "latitude": -28.8166236, "longitude": 24.991639 },
+  "riyadh, saudi arabia": { "latitude": 24.638916, "longitude": 46.7160104 },
+  "tianjin, china": { "latitude": 39.3032619, "longitude": 117.4163641 },
+  "kasugai, japan": { "latitude": 35.273804, "longitude": 137.007459 },
+  "chengdu, china": { "latitude": 30.7001324, "longitude": 104.0708278 },
+  "mito, japan": { "latitude": 36.3659174, "longitude": 140.4731743 },
+  "dubendorf, switzerland": { "latitude": 47.3969942, "longitude": 8.6185666 },
+  "jazan, saudi arabia": { "latitude": 17.333333, "longitude": 42.666667 },
+  "surat, india": { "latitude": 21.2094892, "longitude": 72.8317058 },
+  "jaen, spain": { "latitude": 37.9557275, "longitude": -3.492055612037218 },
+  "kolkata, india": { "latitude": 22.5726459, "longitude": 88.3638953 },
+  "midnapore, india": {
+    "latitude": 22.4671958,
+    "longitude": 87.17500550608798
+  },
+  "hefei, china": { "latitude": 31.8665676, "longitude": 117.281428 },
+  "vijayawada, india": { "latitude": 16.5087573, "longitude": 80.6185089 },
+  "dusit, bangkok, thailand": {
+    "latitude": 13.7705456,
+    "longitude": 100.5126084
+  },
+  "hassan, india": { "latitude": 13.0070817, "longitude": 76.0992703 },
+  "belgaum, india": { "latitude": 15.8572666, "longitude": 74.5069343 },
+  "chungju, south korea": { "latitude": 36.9907334, "longitude": 127.9259891 },
+  "evora, portugal": { "latitude": 38.5707742, "longitude": -7.9092808 },
+  "nakhornpanom, thailand": "not found",
+  "ankara, turkey": { "latitude": 39.9207759, "longitude": 32.8540497 },
+  "corvallis, united states": {
+    "latitude": 44.5645659,
+    "longitude": -123.2620435
+  },
+  "phuket, thailand": { "latitude": 7.9366015, "longitude": 98.3529292 },
+  "pisa, italy": { "latitude": 43.7159395, "longitude": 10.4018624 },
+  "amritsar, india": { "latitude": 31.6343083, "longitude": 74.8736788 },
+  "gurdaspur, india": { "latitude": 32.166667, "longitude": 75.316667 },
+  "talwandi sabo, india": { "latitude": 29.9838213, "longitude": 75.081768 },
+  "gombe, nigeria": {
+    "latitude": 10.430401849999999,
+    "longitude": 11.206540782332173
+  },
+  "kano, nigeria": { "latitude": 11.8948389, "longitude": 8.5364136 },
+  "sintok, malaysia": { "latitude": 6.4451253, "longitude": 100.4811387 },
+  "kitakyushu, japan": { "latitude": 33.8829996, "longitude": 130.8749015 },
+  "fuchu, japan": { "latitude": 34.5683141, "longitude": 133.2366327 },
+  "fukushima, japan": { "latitude": 37.75454, "longitude": 140.4592144 },
+  "loei, thailand": { "latitude": 17.3158563, "longitude": 101.4638277 },
+  "lubbock, united states": {
+    "latitude": 33.5855677,
+    "longitude": -101.8470215
+  },
+  "rio, greece": { "latitude": 38.3018989, "longitude": 21.782579 },
+  "patra, greece": { "latitude": 38.246242, "longitude": 21.7350847 },
+  "bandar sunway, malaysia": {
+    "latitude": 3.0713838,
+    "longitude": 101.6089714
+  },
+  "belfort, france": { "latitude": 47.6379599, "longitude": 6.8628942 },
+  "yamaguchi, japan": { "latitude": 34.2379614, "longitude": 131.5873845 },
+  "ningbo, china": { "latitude": 29.8622194, "longitude": 121.6203873 },
+  "rawalakot, pakistan": { "latitude": 33.8572284, "longitude": 73.7605747 },
+  "bahawalpur, pakistan": { "latitude": 29.394644, "longitude": 71.6638747 },
+  "doha, qatar": { "latitude": 25.2856329, "longitude": 51.5264162 },
+  "multan, pakistan": { "latitude": 30.197838, "longitude": 71.4719683 },
+  "montpellier, france": { "latitude": 43.6112422, "longitude": 3.8767337 },
+  "lisbon, portugal": { "latitude": 38.7077507, "longitude": -9.1365919 },
+  "huai khwang, bangkok, thailand": {
+    "latitude": 13.7785797,
+    "longitude": 100.5745983
+  },
+  "czestochowa, poland": { "latitude": 50.8120466, "longitude": 19.113213 },
+  "bratislava, slovakia": { "latitude": 48.1516988, "longitude": 17.1093063 },
+  "ohta-ku, japan": { "latitude": 35.6979243, "longitude": 139.81357446591528 },
+  "hangzhou, china": { "latitude": 30.2489634, "longitude": 120.2052342 },
+  "clayton, australia": { "latitude": -37.9142211, "longitude": 145.1268559 },
+  "boulder, united states": {
+    "latitude": 40.0149856,
+    "longitude": -105.270545
+  },
+  "berkeley, united states": {
+    "latitude": 37.8708393,
+    "longitude": -122.272863
+  },
+  "taoyuan, taiwan": { "latitude": 24.9929995, "longitude": 121.3010003 },
+  "bandar seri begawan, brunei darussalam": {
+    "latitude": 4.8895453,
+    "longitude": 114.9417574
+  },
+  "hue, viet nam": { "latitude": 16.4639321, "longitude": 107.5863388 },
+  "lyngby, denmark": { "latitude": 55.7718649, "longitude": 12.5051413 },
+  "auckland, new zealand": { "latitude": -36.852095, "longitude": 174.7631803 },
+  "shah alam, malaysia": { "latitude": 3.0739429, "longitude": 101.5185278 },
+  "anan, japan": { "latitude": 33.9220102, "longitude": 134.6596974 },
+  "kumamoto, japan": { "latitude": 32.6450475, "longitude": 130.6341345 },
+  "lat krabang, thailand": { "latitude": 13.7223491, "longitude": 100.7528643 },
+  "suzhou, china": { "latitude": 31.3016935, "longitude": 120.5810725 },
+  "stanford, united states": {
+    "latitude": 37.427467,
+    "longitude": -122.1702445
+  },
+  "cambridge, united states": {
+    "latitude": 42.3656347,
+    "longitude": -71.1040018
+  },
+  "madurai, india": { "latitude": 9.9261153, "longitude": 78.1140983 },
+  "sainte-anne-de-bellevue, canada": {
+    "latitude": 45.4038563,
+    "longitude": -73.9523976
+  },
+  "bahir dar, ethiopia": { "latitude": 11.5949663, "longitude": 37.3882251 },
+  "batu pahat, malaysia": { "latitude": 1.933333, "longitude": 103.0 },
+  "greenville, united states": {
+    "latitude": 34.851354,
+    "longitude": -82.3984882
+  },
+  "research triangle park, united states": {
+    "latitude": 35.8923773,
+    "longitude": -78.86588989367681
+  },
+  "bethesda, united states": {
+    "latitude": 38.98127255,
+    "longitude": -77.12335871396549
+  },
+  "tuban, indonesia": { "latitude": -6.8962656, "longitude": 112.0650714 },
+  "velizy-villacoublay, france": {
+    "latitude": 48.7809496,
+    "longitude": 2.1900052
+  },
+  "poitiers, france": { "latitude": 46.5802596, "longitude": 0.340196 },
+  "nishitokyo, japan": { "latitude": 35.73546, "longitude": 139.550228 },
+  "matsumoto, japan": { "latitude": 36.2382047, "longitude": 137.9687141 },
+  "varazdin, croatia": {
+    "latitude": 46.312673149999995,
+    "longitude": 16.351019097087267
+  },
+  "koprivnica, croatia": { "latitude": 46.1623512, "longitude": 16.8307893 },
+  "zagreb, croatia": { "latitude": 45.8130967, "longitude": 15.9772795 },
+  "purwokerto, indonesia": { "latitude": -7.4279011, "longitude": 109.2408501 },
+  "koganei, japan": { "latitude": 35.7041083, "longitude": 139.5106759 },
+  "tanjong malim, malaysia": {
+    "latitude": 3.6900079,
+    "longitude": 101.5234848
+  },
+  "haldwani, india": { "latitude": 29.2144809, "longitude": 79.5279012 },
+  "bucharest, romania": { "latitude": 44.4361414, "longitude": 26.1027202 },
+  ", ": "not found",
+  "kampala, uganda": { "latitude": 0.3177137, "longitude": 32.5813539 },
+  "chattanooga, united states": {
+    "latitude": 35.0457219,
+    "longitude": -85.3094883
+  },
+  "taiyuan, china": { "latitude": 37.870009, "longitude": 112.5452739 },
+  "notting hill, australia": {
+    "latitude": -37.905582,
+    "longitude": 145.1455616
+  },
+  "antony, france": { "latitude": 48.753554, "longitude": 2.2959423 },
+  "kariapatti, india": {
+    "latitude": 9.6694505,
+    "longitude": 78.16455428476871
+  },
+  "tiruchengode, india": {
+    "latitude": 11.38845225,
+    "longitude": 77.97079099881387
+  },
+  "ho, ghana": { "latitude": 6.6126598, "longitude": 0.4688932 },
+  "belgrade, serbia": { "latitude": 44.8178131, "longitude": 20.4568974 },
+  "chester, united kingdom": {
+    "latitude": 53.1908873,
+    "longitude": -2.8908955
+  },
+  "bhubaneswar, india": { "latitude": 20.2602964, "longitude": 85.8394521 },
+  "riga, latvia": { "latitude": 56.9493977, "longitude": 24.1051846 },
+  "hamburg, germany": { "latitude": 53.550341, "longitude": 10.000654 },
+  "verona, italy": { "latitude": 45.4384958, "longitude": 10.9924122 },
+  "bologna, italy": { "latitude": 44.4938203, "longitude": 11.3426327 },
+  "passo fundo, brazil": { "latitude": -28.2550598, "longitude": -52.3966606 },
+  "bristol, united kingdom": {
+    "latitude": 51.4538022,
+    "longitude": -2.5972985
+  },
+  "curitiba, brazil": { "latitude": -25.4295963, "longitude": -49.2712724 },
+  "kota kinabalu, malaysia": {
+    "latitude": 5.9780066,
+    "longitude": 116.0728988
+  },
+  "brescia, italy": { "latitude": 45.77958045, "longitude": 10.4258729694612 },
+  "waterloo, canada": { "latitude": 43.4652699, "longitude": -80.5222961 },
+  "vicosa, brazil": { "latitude": -20.7538586, "longitude": -42.8815888 },
+  "meadville, united states": {
+    "latitude": 41.641445,
+    "longitude": -80.151449
+  },
+  "covilha, portugal": { "latitude": 40.2805658, "longitude": -7.5043211 },
+  "guildford, united kingdom": {
+    "latitude": 51.2356068,
+    "longitude": -0.5732063
+  },
+  "mataram, indonesia": { "latitude": -8.5837726, "longitude": 116.10685 },
+  "lancaster, united kingdom": {
+    "latitude": 54.0484068,
+    "longitude": -2.7990345
+  },
+  "kitami, japan": { "latitude": 43.8029391, "longitude": 143.8946351 },
+  "sapporo, japan": { "latitude": 43.061936, "longitude": 141.3542924 },
+  "cairo, egypt": { "latitude": 30.0443879, "longitude": 31.2357257 },
+  "morgantown, united states": {
+    "latitude": 39.6296809,
+    "longitude": -79.9559437
+  },
+  "mandalay, myanmar": { "latitude": 21.9596834, "longitude": 96.0948743 },
+  "samutprakarn, thailand": {
+    "latitude": 13.5718776,
+    "longitude": 100.5973278
+  },
+  "shizuoka, japan": { "latitude": 34.9332488, "longitude": 138.0955398 },
+  "nibong tebal, malaysia": { "latitude": 5.1700963, "longitude": 100.4785191 },
+  "newcastle, australia": { "latitude": -32.9272881, "longitude": 151.7812534 },
+  "uxbridge, united kingdom": {
+    "latitude": 51.5449509,
+    "longitude": -0.4816672
+  },
+  "liverpool, united kingdom": {
+    "latitude": 53.4071991,
+    "longitude": -2.99168
+  },
+  "brighton, united kingdom": {
+    "latitude": 50.8214626,
+    "longitude": -0.1400561
+  },
+  "changshu, china": { "latitude": 31.6572954, "longitude": 120.7480757 },
+  "aurora, united states": { "latitude": 41.7571701, "longitude": -88.3147539 },
+  "surat thani, thailand": { "latitude": 9.4674663, "longitude": 98.830042 },
+  "wachtberg, germany": { "latitude": 50.6435631, "longitude": 7.0882889 },
+  "toronto, canada": { "latitude": 43.6534817, "longitude": -79.3839347 },
+  "kohat, pakistan": { "latitude": 33.5967144, "longitude": 71.4399944 },
+  "moscow, russian federation": {
+    "latitude": 55.625578,
+    "longitude": 37.6063916
+  },
+  "jecheon, south korea": { "latitude": 37.1326042, "longitude": 128.1913508 },
+  "kharkiv, ukraine": { "latitude": 49.9923181, "longitude": 36.2310146 },
+  "braunschweig, germany": { "latitude": 52.2646577, "longitude": 10.5236066 },
+  "munich, germany": { "latitude": 48.1371079, "longitude": 11.5753822 },
+  "los alamos, united states": {
+    "latitude": 35.88137,
+    "longitude": -106.298959
+  },
+  "kyiv, ukraine": { "latitude": 50.4500336, "longitude": 30.5241361 },
+  "kabardino-balkaria, russian federation": {
+    "latitude": 43.4428286,
+    "longitude": 43.4204809
+  },
+  "kafin hausa, nigeria": { "latitude": 12.240556, "longitude": 9.913056 },
+  "tainan, taiwan": { "latitude": 22.9912348, "longitude": 120.184982 },
+  "mansehra, pakistan": { "latitude": 34.3286855, "longitude": 73.1993125 },
+  "pakhtunkhwa, pakistan": { "latitude": 33.712802, "longitude": 71.2678805 },
+  "saint-etienne-du-rouvray, france": {
+    "latitude": 49.3831,
+    "longitude": 1.09163
+  },
+  "babol, iran": { "latitude": 36.5452581, "longitude": 52.6846571 },
+  "isfahan, iran": { "latitude": 32.6707877, "longitude": 51.6650002 },
+  "aizuwakamatsu, japan": { "latitude": 37.48043, "longitude": 139.942135 },
+  "madison, united states": { "latitude": 43.074761, "longitude": -89.3837613 },
+  "portsmouth, united states": {
+    "latitude": 43.0702223,
+    "longitude": -70.7548621
+  },
+  "atlantic city, united states": {
+    "latitude": 39.3642852,
+    "longitude": -74.4229351
+  },
+  "blankenberge, belgium": { "latitude": 51.3112589, "longitude": 3.1323429 },
+  "bamako, mali": { "latitude": 12.649319, "longitude": -8.000337 },
+  "mae sod, thailand": "not found",
+  "dunedin, new zealand": { "latitude": -45.8740984, "longitude": 170.5035755 },
+  "oxford, united kingdom": { "latitude": 51.7520131, "longitude": -1.2578499 },
+  "houghton, united states": {
+    "latitude": 46.8591287,
+    "longitude": -88.7774734
+  },
+  "dijon, france": { "latitude": 47.3215806, "longitude": 5.0414701 },
+  "ogwashi-ukwu, nigeria": { "latitude": 6.1817718, "longitude": 6.532877 },
+  "nakhonrachasima, thailand": "not found",
+  "lund, sweden": { "latitude": 55.7029296, "longitude": 13.1929449 },
+  "kandahar, afghanistan": { "latitude": 31.6205738, "longitude": 65.7157573 },
+  "pasadena, united states": {
+    "latitude": 34.1476507,
+    "longitude": -118.144155
+  },
+  "golden, united states": { "latitude": 39.7546349, "longitude": -105.22058 },
+  "sofia, bulgaria": { "latitude": 42.6977028, "longitude": 23.3217359 },
+  "zanjan, iran": { "latitude": 36.515854, "longitude": 48.4777616 },
+  "medan, indonesia": { "latitude": 3.5896654, "longitude": 98.6738261 },
+  "gunsan, south korea": { "latitude": 35.9679984, "longitude": 126.7369036 },
+  "gadong, brunei darussalam": {
+    "latitude": 4.898510099999999,
+    "longitude": 114.90013354353638
+  },
+  "kottayam, india": { "latitude": 9.591564, "longitude": 76.5221599 },
+  "geelong, australia": { "latitude": -38.1493248, "longitude": 144.3598241 },
+  "avrille, france": { "latitude": 47.5045657, "longitude": -0.5956539 },
+  "ann arbor, united states": {
+    "latitude": 42.2813722,
+    "longitude": -83.7484616
+  },
+  "khon kean, thailand": { "latitude": 16.413998, "longitude": 102.8270288 },
+  "evanston, united states": {
+    "latitude": 42.0470043,
+    "longitude": -87.6846053
+  },
+  "canberra, australia": { "latitude": -35.2975906, "longitude": 149.1012676 },
+  "valencia, spain": { "latitude": 39.4697065, "longitude": -0.3763353 },
+  "preston, united kingdom": {
+    "latitude": 53.7593363,
+    "longitude": -2.6992717
+  },
+  "jorbat, india": "not found",
+  "oslo, norway": { "latitude": 59.9133301, "longitude": 10.7389701 },
+  "saint martin d'heres, france": {
+    "latitude": 45.1836683,
+    "longitude": 5.75448
+  },
+  "grenoble, france": { "latitude": 45.1875602, "longitude": 5.7357819 },
+  "hsinchu, taiwan": { "latitude": 24.8066333, "longitude": 120.9686833 },
+  "selangor, malaysia": { "latitude": 3.2083304, "longitude": 101.304146 },
+  "raleigh, united states": {
+    "latitude": 35.7803977,
+    "longitude": -78.6390989
+  },
+  "debrecen, hungary": { "latitude": 47.531399, "longitude": 21.6259782 },
+  "dabrowa gornicza, poland": {
+    "latitude": 50.3308692,
+    "longitude": 19.2078918
+  },
+  "arlington, united states": {
+    "latitude": 32.7355816,
+    "longitude": -97.1071186
+  },
+  "bath, united kingdom": { "latitude": 51.3813864, "longitude": -2.3596963 },
+  "charlottesville, united states": {
+    "latitude": 38.029306,
+    "longitude": -78.4766781
+  },
+  "reading, united kingdom": {
+    "latitude": 51.4564242,
+    "longitude": -0.9700664
+  },
+  "otowa, japan": { "latitude": 34.8575963, "longitude": 137.3102794 },
+  "chongqing, china": { "latitude": 30.05518, "longitude": 107.8748712 },
+  "peoria, united states": { "latitude": 40.6938609, "longitude": -89.5891008 },
+  "takamatsu, japan": { "latitude": 34.3425592, "longitude": 134.0465338 },
+  "zhengzhou, china": { "latitude": 34.7533392, "longitude": 113.6599983 },
+  "shibin el kom, egypt": { "latitude": 30.5545106, "longitude": 31.0097923 },
+  "abha, saudi arabia": { "latitude": 18.2164282, "longitude": 42.5043596 },
+  "serdivan, turkey": { "latitude": 40.7604062, "longitude": 30.3629614 },
+  "vaddeswaram, india": { "latitude": 16.4470335, "longitude": 80.6114786 },
+  "sennan, japan": { "latitude": 34.3657277, "longitude": 135.2739742 },
+  "los banos, philippines": {
+    "latitude": 14.1775648,
+    "longitude": 121.2214303
+  },
+  "manila, philippines": { "latitude": 14.5906346, "longitude": 120.9799964 },
+  "banja luka, bosnia and herzegovina": {
+    "latitude": 44.7720845,
+    "longitude": 17.1917651
+  },
+  "kattankulathur, india": "not found",
+  "richmond, united states": { "latitude": 37.5385087, "longitude": -77.43428 },
+  "chevy chase, united states": {
+    "latitude": 38.9942121,
+    "longitude": -77.0771572
+  },
+  "rethymnon, greece": { "latitude": 35.3676472, "longitude": 24.4736079 },
+  "al ain, united arab emirates": {
+    "latitude": 24.2248697,
+    "longitude": 55.7452211
+  },
+  "tafila, jordan": { "latitude": 30.833333, "longitude": 35.5999999 },
+  "tokat, turkey": { "latitude": 40.38658275, "longitude": 36.656546010111526 },
+  "mersin, turkey": { "latitude": 36.7978381, "longitude": 34.6298391 },
+  "bintulu, malaysia": { "latitude": 3.1874261, "longitude": 113.0472803 },
+  "higashihiroshima, japan": { "latitude": 34.42683, "longitude": 132.741552 },
+  "lamphun, thailand": { "latitude": 18.2661422, "longitude": 98.96749 },
+  "yangon, myanmar": { "latitude": 16.7967129, "longitude": 96.1609916 },
+  "lublin, poland": { "latitude": 51.250559, "longitude": 22.5701022 },
+  "kawasaki, japan": { "latitude": 35.5305307, "longitude": 139.7028012 },
+  "nantes, france": { "latitude": 47.2186371, "longitude": -1.5541362 },
+  ", myanmar": { "latitude": 17.1750495, "longitude": 95.9999652 },
+  "yatanarpon cyber city, myanmar": {
+    "latitude": 21.8749226,
+    "longitude": 96.3682207
+  },
+  "hachioji, japan": { "latitude": 35.655389, "longitude": 139.3394669 },
+  "barcelona, spain": { "latitude": 41.3828939, "longitude": 2.1774322 },
+  "athens, united states": { "latitude": 33.9597677, "longitude": -83.376398 },
+  "kiel, germany": { "latitude": 54.3227085, "longitude": 10.135555 },
+  "faro, portugal": { "latitude": 37.0162727, "longitude": -7.9351771 },
+  "ramnicu valcea, romania": {
+    "latitude": 45.1031731,
+    "longitude": 24.3647209
+  },
+  "honolulu, united states": {
+    "latitude": 21.304547,
+    "longitude": -157.855676
+  },
+  "shanwei, china": { "latitude": 23.0123639, "longitude": 115.5099937 },
+  "kaili, china": { "latitude": 26.64678, "longitude": 107.950619 },
+  "dacun, taiwan": { "latitude": 23.9900522, "longitude": 120.5605718 },
+  "leicester, united kingdom": { "latitude": 52.6362, "longitude": -1.1331969 },
+  "pekan, malaysia": { "latitude": 3.3781961, "longitude": 103.2096122 },
+  "central jakarta, indonesia": {
+    "latitude": -6.18233995,
+    "longitude": 106.84287153600738
+  },
+  "niigata, japan": { "latitude": 37.6452283, "longitude": 138.7669125 },
+  "kamo, japan": { "latitude": 37.6661851, "longitude": 139.04018 },
+  "\u00f0\u1eafk l\u1eafk, viet nam": {
+    "latitude": 12.8292274,
+    "longitude": 108.2999058
+  },
+  "jamshedpur, india": { "latitude": 22.8015194, "longitude": 86.2029579 },
+  "quezon city, philippines": {
+    "latitude": 14.6510546,
+    "longitude": 121.0486254
+  },
+  "beer-sheva, israel": { "latitude": 31.2457442, "longitude": 34.7925181 },
+  "sejong, south korea": { "latitude": 36.4799999, "longitude": 127.289 },
+  "lampang, thailand": { "latitude": 18.6799728, "longitude": 99.7332501 },
+  "stuttgart, germany": { "latitude": 48.7784485, "longitude": 9.1800132 },
+  "vadodara, india": { "latitude": 22.2973142, "longitude": 73.1942567 },
+  "ahmedabad, india": { "latitude": 23.0216238, "longitude": 72.5797068 },
+  "sisaket, thailand": { "latitude": 14.9222, "longitude": 104.4439596 },
+  ", greece": { "latitude": 43.2097838, "longitude": -77.6930602 },
+  "thai nguyen, viet nam": { "latitude": 21.592477, "longitude": 105.8435398 },
+  "athens, greece": { "latitude": 37.9755648, "longitude": 23.7348324 },
+  "minneapolis, united states": {
+    "latitude": 44.9772995,
+    "longitude": -93.2654692
+  },
+  ", austria": { "latitude": 47.59397, "longitude": 14.12456 },
+  "al-ahsa, saudi arabia": { "latitude": 23.3036077, "longitude": 50.1258804 },
+  "delft, netherlands": {
+    "latitude": 51.999457199999995,
+    "longitude": 4.362724538543995
+  },
+  "callaghan, australia": { "latitude": -32.8927988, "longitude": 151.7011832 },
+  "glasgow, united kingdom": { "latitude": 55.861155, "longitude": -4.2501687 },
+  "hamilton, canada": { "latitude": 43.2560802, "longitude": -79.8728583 },
+  "chatuchak bangkok, thailand": {
+    "latitude": 13.8467776,
+    "longitude": 100.558181975
+  },
+  "yanava bangkok, thailand": "not found",
+  "lower hutt, new zealand": {
+    "latitude": -41.2125751,
+    "longitude": 174.9057626
+  },
+  "wellington, new zealand": {
+    "latitude": -41.2887953,
+    "longitude": 174.7772114
+  },
+  "denton, united states": { "latitude": 33.1838787, "longitude": -97.1413417 },
+  "colorado springs, united states": {
+    "latitude": 38.8339578,
+    "longitude": -104.825348
+  },
+  "norman, united states": { "latitude": 35.2225717, "longitude": -97.4394816 },
+  "shahr-e kord, iran": { "latitude": 32.3257366, "longitude": 50.8497369 },
+  "otwock, poland": { "latitude": 52.1161661, "longitude": 21.29345896133107 },
+  "torun, poland": { "latitude": 53.0145361, "longitude": 18.596583144651557 },
+  "thepharak, thailand": { "latitude": 13.6191488, "longitude": 100.6464814 },
+  "edinburgh, united kingdom": {
+    "latitude": 55.9533456,
+    "longitude": -3.1883749
+  },
+  "yazd, iran": { "latitude": 32.0406164, "longitude": 54.6657189 },
+  "dourados, brazil": { "latitude": -22.2206145, "longitude": -54.812208 },
+  "suwon, south korea": { "latitude": 37.2633325, "longitude": 127.0287472 },
+  "calgary, canada": { "latitude": 51.0456064, "longitude": -114.057541 },
+  "fullerton, united states": {
+    "latitude": 33.8708215,
+    "longitude": -117.929416
+  },
+  "kalasin, thailand": { "latitude": 16.5912597, "longitude": 103.6525467 },
+  "vila nova de famalicao, portugal": {
+    "latitude": 41.4065175,
+    "longitude": -8.5187481
+  },
+  "makkah, saudi arabia": { "latitude": 21.420847, "longitude": 39.826869 },
+  "al kharj, saudi arabia": {
+    "latitude": 23.8304401,
+    "longitude": 47.68401336276168
+  },
+  "shenyang, china": { "latitude": 41.8026095, "longitude": 123.4279105 },
+  "douliou, taiwan": { "latitude": 23.7050525, "longitude": 120.5372523 },
+  "freiburg im breisgau, germany": {
+    "latitude": 47.9960901,
+    "longitude": 7.8494005
+  },
+  "saint-nazaire, france": { "latitude": 47.2733517, "longitude": -2.2138905 },
+  "ikeji-arakeji, nigeria": "not found",
+  "naukka, nigeria": "not found",
+  "tiruchirappalli, india": { "latitude": 10.804973, "longitude": 78.6870296 },
+  "tripolis, greece": {
+    "latitude": 37.52646585,
+    "longitude": 22.34874426880834
+  },
+  "nagahama, japan": { "latitude": 35.4857724, "longitude": 136.294057 },
+  "kota samarahan, malaysia": {
+    "latitude": 1.4596157,
+    "longitude": 110.4954562
+  },
+  "lanzhou, china": { "latitude": 36.474436, "longitude": 103.733224 },
+  "oita, japan": { "latitude": 33.2393864, "longitude": 131.6096524 },
+  "birmingham, united states": {
+    "latitude": 33.5206824,
+    "longitude": -86.8024326
+  },
+  "iowa city, united states": {
+    "latitude": 41.6612561,
+    "longitude": -91.5299106
+  },
+  "ballarat, australia": { "latitude": -37.5623013, "longitude": 143.8605645 },
+  "birjand, iran": { "latitude": 32.8633961, "longitude": 59.2177294 },
+  "aalborg, denmark": { "latitude": 57.0462626, "longitude": 9.9215263 },
+  "manipal, india": { "latitude": 13.3519723, "longitude": 74.7870308 },
+  "swansea, united kingdom": {
+    "latitude": 51.6195955,
+    "longitude": -3.9459248
+  },
+  "torbat-e heydarieh, iran": {
+    "latitude": 35.2740853,
+    "longitude": 59.2194494
+  },
+  "seattle, united states": {
+    "latitude": 47.6038321,
+    "longitude": -122.330062
+  },
+  "fortaleza, brazil": { "latitude": -3.7304512, "longitude": -38.5217989 },
+  "campobasso, italy": {
+    "latitude": 41.717264799999995,
+    "longitude": 14.826226697820019
+  },
+  "el paso, united states": {
+    "latitude": 31.7550511,
+    "longitude": -106.488234
+  },
+  "las cruces, united states": {
+    "latitude": 32.3140354,
+    "longitude": -106.779807
+  },
+  "grossbeeren, germany": { "latitude": 52.3540888, "longitude": 13.307754 },
+  "kathmandu, nepal": { "latitude": 27.708317, "longitude": 85.3205817 },
+  "chatham, united kingdom": { "latitude": 51.3819167, "longitude": 0.526559 },
+  "karaikudi, india": { "latitude": 10.0728444, "longitude": 78.7795194 },
+  "madinah, saudi arabia": { "latitude": 24.471153, "longitude": 39.6111216 },
+  ", united states": { "latitude": 39.7837304, "longitude": -100.445882 },
+  "freiberg, germany": { "latitude": 50.9169415, "longitude": 13.3428889 },
+  "new cairo, egypt": { "latitude": 30.0277688, "longitude": 31.4756825 },
+  "rende, italy": { "latitude": 39.3319934, "longitude": 16.1843828 },
+  "oakland, united states": {
+    "latitude": 37.8044557,
+    "longitude": -122.271356
+  },
+  "mihintale, sri lanka": { "latitude": 8.3583002, "longitude": 80.5121579 },
+  "kunming, china": { "latitude": 25.0363006, "longitude": 102.7086139 },
+  "brasov, romania": { "latitude": 45.6525105, "longitude": 25.6105654 },
+  "stillwater, united states": {
+    "latitude": 36.1156306,
+    "longitude": -97.0585717
+  },
+  "yangzhou, china": { "latitude": 32.3968554, "longitude": 119.4077658 },
+  "ravangla, india": { "latitude": 27.3051271, "longitude": 88.3644723 },
+  "durgapur, india": { "latitude": 23.5350475, "longitude": 87.3380425 },
+  "mississauga, canada": { "latitude": 43.5896231, "longitude": -79.6443879 },
+  "machilipatnam, india": { "latitude": 16.1817369, "longitude": 81.1348181 },
+  "kadapa, india": { "latitude": 14.4752936, "longitude": 78.8216861 },
+  "beni suef, egypt": {
+    "latitude": 28.83826875,
+    "longitude": 30.854476821535407
+  },
+  "wonju, south korea": { "latitude": 37.3420996, "longitude": 127.9197603 },
+  "dehradun, india": { "latitude": 30.3255646, "longitude": 78.0436813 },
+  "khlong nueng, khlong luang, pathum thani, thailand": {
+    "latitude": 14.0253197,
+    "longitude": 100.6205053
+  },
+  "san jose, united states": {
+    "latitude": 37.3361663,
+    "longitude": -121.890591
+  },
+  "moscow, united states": { "latitude": 46.7323875, "longitude": -117.000165 },
+  "milan, italy": { "latitude": 45.4641943, "longitude": 9.1896346 },
+  "antananarivo, madagascar": {
+    "latitude": -18.9100122,
+    "longitude": 47.5255809
+  },
+  "nairobi, kenya": { "latitude": -1.2832533, "longitude": 36.8172449 },
+  "bonn, germany": { "latitude": 50.735851, "longitude": 7.10066 },
+  "lake placid, united states": {
+    "latitude": 44.279621,
+    "longitude": -73.979874
+  },
+  "kobe, japan": { "latitude": 34.6932379, "longitude": 135.1943764 },
+  "obihiro, japan": { "latitude": 42.923809, "longitude": 143.1966324 },
+  "darmstadt, germany": { "latitude": 49.872775, "longitude": 8.651177 },
+  "austin, united states": { "latitude": 30.2711286, "longitude": -97.7436995 },
+  "bend, united states": { "latitude": 44.0581728, "longitude": -121.3153096 },
+  "karur, india": { "latitude": 10.9596041, "longitude": 78.0807797 },
+  "patheingyi, mandalay, myanmar": {
+    "latitude": 22.012563,
+    "longitude": 96.154303
+  },
+  "galway, ireland": { "latitude": 53.2744122, "longitude": -9.0490601 },
+  "washington, d.c., united states": {
+    "latitude": 38.8950368,
+    "longitude": -77.0365427
+  },
+  "nineveh, iraq": { "latitude": 36.3564339, "longitude": 43.16216471288615 },
+  "belfast, united kingdom": { "latitude": 54.596391, "longitude": -5.9301829 },
+  "westville, united states": {
+    "latitude": 39.1749355,
+    "longitude": -120.6479907
+  },
+  "gothenburg, sweden": { "latitude": 57.7072326, "longitude": 11.9670171 },
+  "yusong, south korea": { "latitude": 34.5346, "longitude": 127.71029 },
+  "berne-wabern, switzerland": "not found",
+  "okayama, japan": { "latitude": 34.8581334, "longitude": 133.7759256 },
+  "palangkaraya, indonesia": {
+    "latitude": -2.2072919,
+    "longitude": 113.9164372
+  },
+  "kofu, japan": { "latitude": 35.6652481, "longitude": 138.5710441 },
+  "louisville, united states": {
+    "latitude": 38.2542376,
+    "longitude": -85.759407
+  },
+  "college station, united states": {
+    "latitude": 30.6183939,
+    "longitude": -96.3455991
+  },
+  "abbottabad, pakistan": { "latitude": 34.1436136, "longitude": 73.2132747 },
+  "krakow, poland": { "latitude": 50.0469432, "longitude": 19.997153435836697 },
+  "kanpur, india": { "latitude": 26.4609135, "longitude": 80.3217588 },
+  "jaykaypur, india": "not found",
+  "san marcos, united states": {
+    "latitude": 29.8826436,
+    "longitude": -97.9405828
+  },
+  "norfolk, united states": {
+    "latitude": 36.8448348,
+    "longitude": -76.2863999
+  },
+  "gangtok, india": { "latitude": 27.329046, "longitude": 88.6122673 },
+  "ajmer, india": { "latitude": 26.4691, "longitude": 74.639 },
+  "west jakarta, indonesia": {
+    "latitude": -6.161569,
+    "longitude": 106.74389053715214
+  },
+  "lyon, france": { "latitude": 45.7578137, "longitude": 4.8320114 },
+  "nizwa, oman": { "latitude": 22.9323884, "longitude": 57.5311 },
+  "enna, italy": { "latitude": 37.5667573, "longitude": 14.2807473 },
+  "zhenjiang, china": { "latitude": 32.1891959, "longitude": 119.4200069 },
+  "dhahran, saudi arabia": { "latitude": 26.2966528, "longitude": 50.1202146 },
+  "nawabshah, pakistan": { "latitude": 26.2452915, "longitude": 68.4040229 },
+  "tabriz, iran": { "latitude": 38.0738612, "longitude": 46.2978789 },
+  "hail, saudi arabia": { "latitude": 26.9920987, "longitude": 41.4892578 },
+  "mansoura, egypt": {
+    "latitude": 31.040777249999998,
+    "longitude": 31.35812949882739
+  },
+  "worcester, united states": {
+    "latitude": 42.2625621,
+    "longitude": -71.8018877
+  },
+  "jhang, pakistan": { "latitude": 31.2728805, "longitude": 72.3103071 },
+  "esch-sur-alzette, luxembourg": {
+    "latitude": 49.4959628,
+    "longitude": 5.9850306
+  },
+  "poznan, poland": { "latitude": 52.4082663, "longitude": 16.9335199 },
+  "esch-sur-alzette, luxembourg, luxembourg": {
+    "latitude": 49.5714242,
+    "longitude": 6.09509
+  },
+  "saga, japan": { "latitude": 33.2185408, "longitude": 130.1296585 },
+  "bangkol, thailand": "not found",
+  "barkam, china": { "latitude": 32.1016882, "longitude": 102.0090521 },
+  "makkum, netherlands": { "latitude": 53.0572965, "longitude": 5.4048682 },
+  "hillah, iraq": { "latitude": 32.482245, "longitude": 44.4328131 },
+  "changzhou, china": { "latitude": 31.8122623, "longitude": 119.9691539 },
+  "an nasiriyah, iraq": {
+    "latitude": 36.303625350000004,
+    "longitude": 41.86303454127866
+  },
+  "sousse, tunisia": { "latitude": 35.8288175, "longitude": 10.6405392 },
+  "pathanamthitta, india": { "latitude": 9.2655337, "longitude": 76.7871514 },
+  "kolonaki, athens, greece": {
+    "latitude": 37.9769749,
+    "longitude": 23.7408135
+  },
+  "rome, italy": { "latitude": 41.8933203, "longitude": 12.4829321 },
+  "semey, kazakhstan": { "latitude": 50.404377, "longitude": 80.2496637 },
+  "mosul, iraq": { "latitude": 36.3415843, "longitude": 43.1291386 },
+  "kazan, russian federation": {
+    "latitude": 55.7823547,
+    "longitude": 49.1242266
+  },
+  "jatiwaringin, indonesia": {
+    "latitude": -6.2724577,
+    "longitude": 106.9147359
+  },
+  "baghdad, iraq": { "latitude": 33.3061701, "longitude": 44.3872213 },
+  "camarillo, united states": {
+    "latitude": 34.2176371,
+    "longitude": -119.0383541
+  },
+  "sakakah, saudi arabia": { "latitude": 29.9784008, "longitude": 40.2047701 },
+  "taif, saudi arabia": { "latitude": 21.2702801, "longitude": 40.4158308 },
+  "toowoomba, australia": { "latitude": -27.5610193, "longitude": 151.953351 },
+  "surin, thailand": { "latitude": 14.8841804, "longitude": 103.4906232 },
+  "nakhon ratchasama, thailand": "not found",
+  "kanazawa, japan": { "latitude": 36.5780499, "longitude": 136.6480247 },
+  "toyama, japan": { "latitude": 36.6468015, "longitude": 137.2183531 },
+  "ma'an, jordan": { "latitude": 30.2, "longitude": 35.7333329 },
+  "krasnodar, russian federation": {
+    "latitude": 45.0351532,
+    "longitude": 38.9772396
+  },
+  "antalya, turkey": { "latitude": 36.8864752, "longitude": 30.7029585 },
+  "afyonkarahisar, turkey": { "latitude": 38.6852729, "longitude": 30.6427411 },
+  "minna, nigeria": { "latitude": 9.6187093, "longitude": 6.5475752 },
+  "leioa, spain": { "latitude": 43.3271048, "longitude": -2.9846079 },
+  "asan, south korea": { "latitude": 36.7899498, "longitude": 127.0026769 },
+  "new taipei city, taiwan": {
+    "latitude": 25.09741515,
+    "longitude": 121.51497145968716
+  },
+  "sagamihara, japan": { "latitude": 35.56559, "longitude": 139.236215 },
+  ", indonesia": { "latitude": -2.4833826, "longitude": 117.8902853 },
+  ", new zealand": { "latitude": -41.5000831, "longitude": 172.8344077 },
+  "hashimoto, japan": { "latitude": 34.3258291, "longitude": 135.6190034 },
+  "alanya, turkey": { "latitude": 36.8864752, "longitude": 30.7029585 },
+  "tarsus, turkey": { "latitude": 36.9164834, "longitude": 34.895149 },
+  "antakya, turkey": { "latitude": 36.2036546, "longitude": 36.1637648 },
+  "zhoushan, china": { "latitude": 29.9873344, "longitude": 122.2030363 },
+  "nakhon nayok, thailand": {
+    "latitude": 14.1494474,
+    "longitude": 101.2177459
+  },
+  "almaty, kazakhstan": { "latitude": 43.2363924, "longitude": 76.9457275 },
+  "jinan, china": { "latitude": 31.7517806, "longitude": 116.534208 },
+  "dezhou, china": { "latitude": 37.4363704, "longitude": 116.3534091 },
+  "texcoco, mexico": {
+    "latitude": 19.47559065,
+    "longitude": -98.85539643391266
+  },
+  "yaounde, cameroon": { "latitude": 3.8689867, "longitude": 11.5213344 },
+  "rajshahi, bangladesh": { "latitude": 24.6285432, "longitude": 89.0376862 },
+  "marne-la-vallee, france": {
+    "latitude": 48.8494036,
+    "longitude": 2.6727019475243083
+  },
+  "pau, france": { "latitude": 43.2957547, "longitude": -0.3685668 },
+  "karak, pakistan": { "latitude": 33.1160464, "longitude": 71.0950863 },
+  "safat, kuwait": { "latitude": 29.3689447, "longitude": 47.9777622 },
+  "huzhou, china": { "latitude": 30.8942995, "longitude": 120.0851114 },
+  "changsha, china": { "latitude": 28.1450774, "longitude": 113.2384362 },
+  "al-khobar, saudi arabia": {
+    "latitude": 26.3039999,
+    "longitude": 50.1960237
+  },
+  "sao paulo, brazil": { "latitude": -23.5506507, "longitude": -46.6333824 },
+  "granada, spain": { "latitude": 37.1734995, "longitude": -3.5995337 },
+  "mandaluyong, philippines": {
+    "latitude": 14.5774392,
+    "longitude": 121.0338973
+  },
+  "patancheru, india": { "latitude": 17.5286092, "longitude": 78.2674254 },
+  "dumaguete, philippines": { "latitude": 9.3054777, "longitude": 123.3080446 },
+  "kanchipuram, india": { "latitude": 12.9647163, "longitude": 79.9839686 },
+  "sathorn, thailand": { "latitude": 13.7200849, "longitude": 100.5236274 },
+  "allahabad, india": { "latitude": 25.4381302, "longitude": 81.8338005 },
+  "pathanamthitta, kerala, india": {
+    "latitude": 9.2655337,
+    "longitude": 76.7871514
+  },
+  "kochi, india": { "latitude": 9.9674277, "longitude": 76.2454436 },
+  "al quoz, dubai, united arab emirates": {
+    "latitude": 25.1177213,
+    "longitude": 55.2357807
+  },
+  "san mateo, united states": {
+    "latitude": 37.496904,
+    "longitude": -122.3330573
+  },
+  "detroit, united states": {
+    "latitude": 42.3315509,
+    "longitude": -83.0466403
+  },
+  "bhopal, india": { "latitude": 23.2584857, "longitude": 77.401989 },
+  "jessore, bangladesh": { "latitude": 23.1665256, "longitude": 89.2094419 },
+  "gongju, south korea": { "latitude": 36.47257, "longitude": 127.09124 },
+  "bricqueville-sur-mer, france": {
+    "latitude": 48.913039,
+    "longitude": -1.5212779
+  },
+  "marseille, france": { "latitude": 43.2961743, "longitude": 5.3699525 },
+  "messina, italy": { "latitude": 38.1937571, "longitude": 15.5542082 },
+  "catania, italy": { "latitude": 37.5023612, "longitude": 15.0873718 },
+  "trondheim, norway": { "latitude": 63.4304475, "longitude": 10.3952118 },
+  "kristianstad, sweden": { "latitude": 56.0293778, "longitude": 14.1566859 },
+  "carbondale, united states": {
+    "latitude": 37.7274692,
+    "longitude": -89.216655
+  },
+  "iwate district, japan": "not found",
+  "kongsberg, norway": {
+    "latitude": 59.594550049999995,
+    "longitude": 9.670860075643745
+  },
+  "stavanger, norway": { "latitude": 58.9699675, "longitude": 5.7318101 },
+  "thai nguyen city, viet nam": {
+    "latitude": 21.5953443,
+    "longitude": 105.83954054427727
+  },
+  "weihai, china": { "latitude": 45.7931952, "longitude": 123.7132133 },
+  "warsaw, poland": { "latitude": 52.2337172, "longitude": 21.071432235636493 },
+  "gopalganj, bangladesh": { "latitude": 23.0049937, "longitude": 89.8303176 },
+  "trier, germany": { "latitude": 49.7596208, "longitude": 6.6441878 },
+  "bonab, iran": { "latitude": 37.3409239, "longitude": 46.050471 },
+  "tulkarm, palestine": { "latitude": 32.3111468, "longitude": 35.0275505 },
+  "ilam, iran": { "latitude": 33.1545696, "longitude": 46.7576343 },
+  "quanzhou, china": { "latitude": 25.1901863, "longitude": 118.338717 },
+  "mandi, india": { "latitude": 31.7084496, "longitude": 76.9293782 },
+  "jambi, indonesia": {
+    "latitude": -1.6394711,
+    "longitude": 102.94542640112506
+  },
+  "xinyu, china": { "latitude": 27.853572, "longitude": 114.8867147 },
+  "saint petersburg, russian federation": {
+    "latitude": 59.9606739,
+    "longitude": 30.1586551
+  },
+  "darwin, australia": { "latitude": -12.46044, "longitude": 130.8410469 },
+  "split, croatia": { "latitude": 43.5116383, "longitude": 16.4399659 },
+  "sathyamangalam, india": {
+    "latitude": 11.5523741,
+    "longitude": 77.26537576524208
+  },
+  "sivakasi, india": { "latitude": 9.4669895, "longitude": 77.77597856822051 },
+  "phu khiao, thailand": { "latitude": 16.3665359, "longitude": 102.1335235 },
+  "nakhon ratchasrima, thailand": "not found",
+  "davis, united states": { "latitude": 40.7474784, "longitude": -92.3965311 },
+  "bydgoszcz, poland": {
+    "latitude": 53.12974625,
+    "longitude": 18.029369658534854
+  },
+  "phayathai, thailand": {
+    "latitude": 13.757613450000001,
+    "longitude": 100.53911642148117
+  },
+  "hong kong, china": { "latitude": 22.350627, "longitude": 114.1849161 },
+  "luton, united kingdom": {
+    "latitude": 51.89107295,
+    "longitude": -0.4230304076201782
+  },
+  "asyut, egypt": { "latitude": 27.1832822, "longitude": 31.1853836 },
+  "chelyabinsk, russian federation": {
+    "latitude": 55.1598408,
+    "longitude": 61.4025547
+  },
+  "karaman, turkey": { "latitude": 37.1796848, "longitude": 33.3383665 },
+  "al-majmaah, saudi arabia": {
+    "latitude": 26.541154900000002,
+    "longitude": 45.77771500065092
+  },
+  "lakki marwat, pakistan": { "latitude": 32.6056744, "longitude": 70.9113526 },
+  "vehari, pakistan": { "latitude": 30.0, "longitude": 72.333333 },
+  "faisalabad, pakistan": { "latitude": 31.4220558, "longitude": 73.0923253 },
+  "mianyang, china": { "latitude": 31.4602714, "longitude": 104.7160723 },
+  "corner brook, canada": { "latitude": 48.95317, "longitude": -57.947388 },
+  "mohali, india": { "latitude": 30.7041168, "longitude": 76.7176885 },
+  "bang pakong, thailand": { "latitude": 13.5006858, "longitude": 100.9892704 },
+  "anseong, south korea": { "latitude": 37.007773, "longitude": 127.279971 },
+  "nekemte, ethiopia": { "latitude": 9.0905237, "longitude": 36.5481573 },
+  "aveiro, portugal": { "latitude": 40.640496, "longitude": -8.6537841 },
+  "qena, egypt": { "latitude": 26.01055795, "longitude": 33.12992108817383 },
+  "ilorin, nigeria": { "latitude": 8.4963657, "longitude": 4.5480484 },
+  "haridwar, india": { "latitude": 29.9384473, "longitude": 78.1452985 },
+  "vigo, spain": { "latitude": 42.2376602, "longitude": -8.7247205 },
+  "gorgan, iran": { "latitude": 36.8392776, "longitude": 54.4320858 },
+  "baoding, china": { "latitude": 38.8579735, "longitude": 115.490696 },
+  "orense, spain": { "latitude": 42.1939629, "longitude": -7.53712401397051 },
+  "tromso, norway": { "latitude": 69.6516345, "longitude": 18.9558585 },
+  "multhan, pakistan": "not found",
+  "sharjah, united arab emirates": {
+    "latitude": 25.3461498,
+    "longitude": 55.4210633
+  },
+  "shantou, china": { "latitude": 23.3563921, "longitude": 116.6775856 },
+  "aarhus, denmark": { "latitude": 56.1496278, "longitude": 10.2134046 },
+  "abakaliki, nigeria": { "latitude": 6.3208897, "longitude": 8.1133202 },
+  "abuja, nigeria": { "latitude": 9.0643305, "longitude": 7.4892974 },
+  "duzce, turkey": { "latitude": 40.8774545, "longitude": 31.2009618 },
+  "huangshi, china": { "latitude": 30.2024971, "longitude": 115.0334144 },
+  "pune, india": { "latitude": 18.521428, "longitude": 73.8544541 },
+  "panzhihua, china": { "latitude": 26.5860102, "longitude": 101.7179276 },
+  "arar, saudi arabia": { "latitude": 30.916667, "longitude": 41.5 },
+  "ibb, yemen": { "latitude": 14.1419291, "longitude": 44.1389849 },
+  "madinat yanbu al-sinaiyah, saudi arabia": {
+    "latitude": 23.95,
+    "longitude": 38.233333
+  },
+  "roi et, thailand": { "latitude": 15.7486448, "longitude": 103.7013017 },
+  "zhanjiang, china": { "latitude": 21.2737079, "longitude": 110.3548318 },
+  "urmia, iran": { "latitude": 37.548341, "longitude": 45.0667111 },
+  "hafar al batin, saudi arabia": {
+    "latitude": 28.4328084,
+    "longitude": 45.9627527
+  },
+  "copenhagen, denmark": { "latitude": 55.6867243, "longitude": 12.5700724 },
+  "lakshmangarh, india": { "latitude": 26.1328626, "longitude": 74.0775919 },
+  "huainan, china": { "latitude": 32.5866826, "longitude": 117.0130019 },
+  "seosan, south korea": { "latitude": 36.784499, "longitude": 126.450317 },
+  "muang, nakhon ratchasima, thailand": {
+    "latitude": 15.6353116,
+    "longitude": 102.7038199
+  },
+  "phra pradaeng, thailand": {
+    "latitude": 13.6591779,
+    "longitude": 100.5338323
+  },
+  "neijiang, china": { "latitude": 23.6935, "longitude": 106.941 },
+  "taipa, macao": { "latitude": 22.1573804, "longitude": 113.5601035 },
+  "bengkulu, indonesia": { "latitude": -3.5186763, "longitude": 102.5359834 },
+  "cranfield, united kingdom": {
+    "latitude": 52.0690205,
+    "longitude": -0.6079317
+  },
+  "newark, united states": { "latitude": 40.735657, "longitude": -74.1723667 },
+  "tucson, united states": { "latitude": 32.2228765, "longitude": -110.974847 },
+  "pohang, south korea": { "latitude": 36.0189315, "longitude": 129.3429384 },
+  "ulaanbaatar, mongolia": {
+    "latitude": 47.94093275,
+    "longitude": 106.91795035225584
+  },
+  "kangar, malaysia": { "latitude": 6.4389312, "longitude": 100.1944838 },
+  "mwanza, tanzania": { "latitude": -2.5196915, "longitude": 32.9014417 },
+  "chapel hill, united states": {
+    "latitude": 35.9131542,
+    "longitude": -79.05578
+  },
+  "williamsburg, united states": {
+    "latitude": 37.2708788,
+    "longitude": -76.7074042
+  },
+  "kenitra, morocco": { "latitude": 34.26457, "longitude": -6.570169 },
+  "delhi-ncr, india": {
+    "latitude": 28.48761975,
+    "longitude": 77.29034364571555
+  },
+  "babylon, iraq": {
+    "latitude": 32.544713200000004,
+    "longitude": 44.431814334435785
+  },
+  "southport, australia": { "latitude": -27.9687807, "longitude": 153.4066696 },
+  "banglamung, chon buri, thailand": {
+    "latitude": 12.9237932,
+    "longitude": 100.8821638
+  },
+  "lappeenranta, finland": { "latitude": 61.0583713, "longitude": 28.1862742 },
+  "hagen, germany": { "latitude": 51.3582945, "longitude": 7.473296 },
+  "sirte, libya": { "latitude": 31.2059625, "longitude": 16.5836206 },
+  "erbil, iraq": { "latitude": 36.1911744, "longitude": 44.0094145 },
+  "samut prakan, thailand": {
+    "latitude": 13.6531651,
+    "longitude": 100.8182578
+  },
+  "greater noida, india": { "latitude": 28.4670734, "longitude": 77.5137649 },
+  "bejaia, algeria": { "latitude": 36.7511783, "longitude": 5.0643687 },
+  "pullman, united states": {
+    "latitude": 46.7304268,
+    "longitude": -117.173895
+  },
+  "cartagena, spain": { "latitude": 37.6019353, "longitude": -0.9841152 },
+  "jabalya, palestine": { "latitude": 31.5328984, "longitude": 34.4954794 },
+  "kolonaki, greece": { "latitude": 37.9769749, "longitude": 23.7408135 },
+  "lille, france": { "latitude": 50.6365654, "longitude": 3.0635282 },
+  "oujda, morocco": { "latitude": 34.677874, "longitude": -1.929306 },
+  "orleans, france": { "latitude": 47.9027336, "longitude": 1.9086066 },
+  "omu aran, nigeria": { "latitude": 8.1385895, "longitude": 5.101326 },
+  "shawnee, united states": {
+    "latitude": 39.0273676,
+    "longitude": -95.7627535
+  },
+  "thimphu, bhutan": { "latitude": 27.4713546, "longitude": 89.6336729 },
+  "abu dhabi, united arab emirates": {
+    "latitude": 24.4538352,
+    "longitude": 54.3774014
+  },
+  "hasselt, belgium": { "latitude": 50.9303735, "longitude": 5.3378043 },
+  "vry, france": { "latitude": 49.1905793, "longitude": 6.3279858 },
+  "liuzhou, china": { "latitude": 24.3284746, "longitude": 109.4239676 },
+  "naples, italy": { "latitude": 40.8358846, "longitude": 14.2487679 },
+  "roiet, thailand": "not found",
+  "tirupati, india": {
+    "latitude": 13.77928955,
+    "longitude": 79.83512262283737
+  },
+  "pretoria, south africa": {
+    "latitude": -25.7459277,
+    "longitude": 28.1879101
+  },
+  "siirt, turkey": { "latitude": 37.8646916, "longitude": 42.0510294 },
+  "changasha, china": "not found",
+  "monterrey, mexico": { "latitude": 25.6802019, "longitude": -100.315258 },
+  "muang pathum thani, thailand": {
+    "latitude": 14.0091441,
+    "longitude": 100.5398583
+  },
+  "kermanshah, iran": { "latitude": 34.486732, "longitude": 46.80872698861859 },
+  "cottbus, germany": { "latitude": 51.7567447, "longitude": 14.3357307 },
+  "urasoe, japan": { "latitude": 26.249754, "longitude": 127.716591 },
+  "vellakulam, india": { "latitude": 10.5017225, "longitude": 79.5951673 },
+  "salem, india": { "latitude": 11.6551982, "longitude": 78.1581771 },
+  "lingayen, philippines": { "latitude": 16.0206363, "longitude": 120.2307093 },
+  "ambo, ethiopia": { "latitude": 8.982104, "longitude": 37.8554406 },
+  "karad, india": {
+    "latitude": 17.314751700000002,
+    "longitude": 74.16551699168082
+  },
+  "mathura, india": { "latitude": 27.633333, "longitude": 77.583333 },
+  "tetouan, morocco": { "latitude": 35.570175, "longitude": -5.3742776 },
+  "ota, nigeria": { "latitude": 7.95, "longitude": 4.8 },
+  "kaduna, nigeria": { "latitude": 10.3825318, "longitude": 7.8533226 },
+  "malacca, malaysia": { "latitude": 2.3293744, "longitude": 102.2880962 },
+  "ayer keroh, malaysia": { "latitude": 2.255986, "longitude": 102.2915442 },
+  "behrang, malaysia": { "latitude": 3.7453765, "longitude": 101.4497324 },
+  "ayer keroh, melaka, malaysia": {
+    "latitude": 2.255986,
+    "longitude": 102.2915442
+  },
+  "petaling jaya, malaysia": {
+    "latitude": 3.0988792,
+    "longitude": 101.6454202
+  },
+  "kingsville, united states": {
+    "latitude": 27.5158689,
+    "longitude": -97.856109
+  },
+  "ioannina, greece": { "latitude": 39.6639818, "longitude": 20.8522784 },
+  "yiyang, china": { "latitude": 28.5562003, "longitude": 112.3497606 },
+  "city of balanga, philippines": {
+    "latitude": 14.6795669,
+    "longitude": 120.5409693
+  },
+  "ranchi, india": { "latitude": 23.3700501, "longitude": 85.3250387 },
+  "nagpur, india": { "latitude": 21.1498134, "longitude": 79.0820556 },
+  "suez, egypt": { "latitude": 29.974498, "longitude": 32.537086 },
+  "gwangju, south korea": { "latitude": 35.1594647, "longitude": 126.8515034 },
+  "wolverhampton, united kingdom": {
+    "latitude": 52.5847651,
+    "longitude": -2.127567
+  },
+  "an giang, viet nam": { "latitude": 10.5392057, "longitude": 105.2312822 },
+  "izumi, japan": { "latitude": 34.43108, "longitude": 135.474789 },
+  "ibaraki, japan": { "latitude": 36.2869536, "longitude": 140.4703384 },
+  "princeton, united states": {
+    "latitude": 40.3496953,
+    "longitude": -74.6597376
+  },
+  "richland, united states": {
+    "latitude": 38.7060457,
+    "longitude": -88.0949352
+  },
+  "bellary, india": { "latitude": 15.1433952, "longitude": 76.9193876 },
+  "sahiwal, pakistan": { "latitude": 30.6715098, "longitude": 73.1110572 },
+  "bijapur, india": { "latitude": 18.7935679, "longitude": 80.815939 },
+  "ardahan, turkey": { "latitude": 41.0372501, "longitude": 42.7462189 },
+  "ongkharak, thailand": { "latitude": 14.1216261, "longitude": 101.0014337 },
+  "harbin, china": { "latitude": 45.7593633, "longitude": 126.6276177 },
+  "thanjavur, india": { "latitude": 10.7860267, "longitude": 79.1381497 },
+  "belihuloya, sri lanka": { "latitude": 6.7197996, "longitude": 80.7719451 },
+  "pingtung, taiwan": { "latitude": 22.6828017, "longitude": 120.487928 },
+  "lagos, nigeria": { "latitude": 6.4550575, "longitude": 3.3941795 },
+  "benin, nigeria": { "latitude": 6.3330586, "longitude": 5.6221058 },
+  "potsdam, united states": {
+    "latitude": 44.6697996,
+    "longitude": -74.9813349
+  },
+  "rajam, india": { "latitude": 18.4497559, "longitude": 83.6564679 },
+  "ban du, thailand": { "latitude": 14.9405398, "longitude": 104.0356544 },
+  "ogbomoso, nigeria": { "latitude": 8.133, "longitude": 4.25 },
+  "trieste, italy": { "latitude": 45.6496485, "longitude": 13.7772781 },
+  "gaithersburg, united states": {
+    "latitude": 39.1399187,
+    "longitude": -77.1929215
+  },
+  "hayama, japan": { "latitude": 35.2729088, "longitude": 139.5931769 },
+  "batavia, united states": {
+    "latitude": 42.9980144,
+    "longitude": -78.1875515
+  },
+  "grignano (ts), italy": { "latitude": 45.7129997, "longitude": 13.7123533 },
+  "columbia, united states": {
+    "latitude": 34.0003117,
+    "longitude": -81.0331309
+  },
+  "suva, fiji": { "latitude": -18.1415884, "longitude": 178.4421662 },
+  "boise, united states": { "latitude": 43.6166163, "longitude": -116.200886 },
+  "benha, egypt": { "latitude": 30.4624974, "longitude": 31.184063 },
+  "basel, switzerland": { "latitude": 47.5581077, "longitude": 7.5878261 },
+  "yinchuan, china": { "latitude": 38.4852037, "longitude": 106.2261926 },
+  "kashihara, japan": { "latitude": 34.5094067, "longitude": 135.792955 },
+  "nong bua lamphu, thailand": {
+    "latitude": 17.3521009,
+    "longitude": 102.2074566
+  },
+  "greer, united states": { "latitude": 34.9326334, "longitude": -99.5435856 },
+  "noida, india": { "latitude": 28.5706333, "longitude": 77.3272147 },
+  "sovenga, south africa": "not found",
+  "warangal, india": { "latitude": 17.9820644, "longitude": 79.5970954 },
+  "kaeng khoi, thailand": { "latitude": 14.5897806, "longitude": 101.0001303 },
+  "quchan, iran": { "latitude": 37.1059638, "longitude": 58.509553 },
+  "woy woy, australia": { "latitude": -33.4880548, "longitude": 151.3274925 },
+  "isa, bahrain": { "latitude": 26.1741995, "longitude": 50.5473432 },
+  "nadiad, india": { "latitude": 22.6895535, "longitude": 72.8713603 },
+  "bursa, turkey": { "latitude": 40.182737, "longitude": 29.0675481 },
+  "sonipat, india": { "latitude": 28.9953758, "longitude": 77.0233627 },
+  "gurugram, india": { "latitude": 28.4646148, "longitude": 77.0299194 },
+  "chittagong, bangladesh": { "latitude": 22.333778, "longitude": 91.8344348 },
+  "qujing, china": { "latitude": 25.719931, "longitude": 103.986131 },
+  "fayetteville, united states": {
+    "latitude": 36.0625843,
+    "longitude": -94.1574328
+  },
+  "tashkent, uzbekistan": { "latitude": 41.3123363, "longitude": 69.2787079 },
+  "xuzhou, china": { "latitude": 34.2665258, "longitude": 117.1810431 },
+  "dortmund, germany": { "latitude": 51.5142273, "longitude": 7.4652789 },
+  "volos, greece": { "latitude": 39.3624833, "longitude": 22.9401864 },
+  "sriperumbudur, india": {
+    "latitude": 12.9201301,
+    "longitude": 79.9391056357725
+  },
+  "luzhou, china": { "latitude": 28.5297899, "longitude": 105.5382725 },
+  "regina, canada": { "latitude": 50.44876, "longitude": -104.61731 },
+  "manila city, philippines": {
+    "latitude": 14.5906346,
+    "longitude": 120.9799964
+  },
+  "chlef, algeria": {
+    "latitude": 36.203419999999994,
+    "longitude": 1.2680696005416272
+  },
+  "sidi bel abbes, algeria": {
+    "latitude": 34.682268,
+    "longitude": -0.43575550651239253
+  },
+  "majlesi, iran": { "latitude": 32.1968552, "longitude": 51.5007466 },
+  "kabupaten sinjai, indonesia": "not found",
+  "famagusta, cyprus": { "latitude": 35.1205261, "longitude": 33.9387919 },
+  "tsu, japan": { "latitude": 34.7341973, "longitude": 136.5153283 },
+  "hempstead, united states": {
+    "latitude": 33.6949319,
+    "longitude": -93.6929825
+  },
+  "kovilpatti, india": {
+    "latitude": 9.0653134,
+    "longitude": 77.83047762243062
+  },
+  "blacksburg, united states": {
+    "latitude": 37.2296566,
+    "longitude": -80.4136767
+  },
+  "east boothbay, united states": {
+    "latitude": 43.8656167,
+    "longitude": -69.5852939
+  },
+  "meram, turkey": { "latitude": 37.8679527, "longitude": 32.4946514 },
+  "urumqi, china": { "latitude": 43.419754, "longitude": 87.319461 },
+  "jimma, ethiopia": { "latitude": 7.6756152, "longitude": 36.8478779 },
+  "salt, jordan": { "latitude": 32.0390779, "longitude": 35.7269843 },
+  "guanajuato, mexico": { "latitude": 20.9876996, "longitude": -101.0 },
+  "awka, nigeria": { "latitude": 6.218947, "longitude": 7.0774372 },
+  "hamirpur, india": { "latitude": 31.7491333, "longitude": 76.5036832 },
+  "guntur, india": { "latitude": 16.2915189, "longitude": 80.4541588 },
+  "banda aceh, indonesia": { "latitude": 5.5528455, "longitude": 95.3192908 },
+  "santander, spain": { "latitude": 43.4620412, "longitude": -3.8099719 },
+  "najran, saudi arabia": { "latitude": 18.0, "longitude": 45.666667 },
+  "ghaziabad, india": { "latitude": 28.6711527, "longitude": 77.4120356 },
+  "beirut, lebanon": { "latitude": 33.8959203, "longitude": 35.47843 },
+  "arecibo, united states": { "latitude": 18.471975, "longitude": -66.7161704 },
+  "campeche, mexico": { "latitude": 19.0, "longitude": -90.5 },
+  "bokaro, india": { "latitude": 23.6544338, "longitude": 86.1456444 },
+  "reno, united states": { "latitude": 39.5261206, "longitude": -119.8126581 },
+  "duyun, china": { "latitude": 26.1908679, "longitude": 107.4526239 },
+  "zunyi, china": { "latitude": 27.6912954, "longitude": 106.9155974 },
+  "irkutsk, russian federation": {
+    "latitude": 56.6370122,
+    "longitude": 104.719221
+  },
+  "cerdanyola del valles, spain": {
+    "latitude": 41.4910324,
+    "longitude": 2.1374969
+  },
+  "mbarara, uganda": {
+    "latitude": -0.4180848,
+    "longitude": 30.573737377548046
+  },
+  "troy, united states": { "latitude": 42.7284117, "longitude": -73.6917878 },
+  "aberystwyth, united kingdom": {
+    "latitude": 52.4143113,
+    "longitude": -4.0816846
+  },
+  "kannauj, india": { "latitude": 27.06317165, "longitude": 79.85239484749158 },
+  "alice, south africa": { "latitude": -32.7888889, "longitude": 26.8344444 },
+  "zagazig, egypt": { "latitude": 30.5853431, "longitude": 31.5035127 },
+  "changa, india": { "latitude": 31.7805589, "longitude": 77.4304243 },
+  "skikda, algeria": {
+    "latitude": 36.75451150000001,
+    "longitude": 6.885625492591183
+  },
+  "setif, algeria": { "latitude": 36.1893494, "longitude": 5.4046876 },
+  "bradford, united kingdom": {
+    "latitude": 53.7944229,
+    "longitude": -1.7519186
+  },
+  "alexandria, egypt": { "latitude": 31.1991806, "longitude": 29.8951716 },
+  "najaf, iraq": { "latitude": 32.0010227, "longitude": 44.3299926 },
+  "hrodna, belarus": { "latitude": 53.6834599, "longitude": 23.8342648 },
+  "nice, france": { "latitude": 43.7009358, "longitude": 7.2683912 },
+  "palto alto, united states": "not found",
+  "armidale, australia": { "latitude": -30.5144881, "longitude": 151.6656564 },
+  "yantai, china": { "latitude": 37.461928, "longitude": 121.4425255 },
+  "zaria, nigeria": { "latitude": 11.1134917, "longitude": 7.7188449 },
+  "yunlin, taiwan": { "latitude": 23.6990775, "longitude": 120.5245511 },
+  "dusit, thailand": { "latitude": 13.7705456, "longitude": 100.5126084 },
+  "tubingen, germany": { "latitude": 48.5236164, "longitude": 9.0535531 },
+  "dubai, united arab emirates": {
+    "latitude": 25.074282349999997,
+    "longitude": 55.18853865430702
+  },
+  "srinagar, india": { "latitude": 34.0747444, "longitude": 74.8204443 },
+  "ghent, belgium": { "latitude": 51.0538286, "longitude": 3.7250121 },
+  "lommel, belgium": { "latitude": 51.2305657, "longitude": 5.3076895 },
+  "godollo, hungary": { "latitude": 47.601529, "longitude": 19.3476981 },
+  "ras al khaimah, united arab emirates": {
+    "latitude": 25.7386349,
+    "longitude": 55.924922399798014
+  },
+  "buon ma thuoc, viet nam": {
+    "latitude": 12.666937449999999,
+    "longitude": 108.04971143369599
+  },
+  "quy nhon, viet nam": { "latitude": 13.7696017, "longitude": 109.2314599 },
+  "thanh hoa, viet nam": { "latitude": 19.8076814, "longitude": 105.7767437 },
+  "pauri garhwal, india": {
+    "latitude": 29.8473168,
+    "longitude": 78.70704792061838
+  },
+  "pyongyang, north korea": {
+    "latitude": 39.0167979,
+    "longitude": 125.7473609
+  },
+  "halifax, canada": { "latitude": 44.648618, "longitude": -63.5859487 },
+  "sanandaj, iran": { "latitude": 35.3126047, "longitude": 46.9978639 },
+  "galle, sri lanka": { "latitude": 6.0328139, "longitude": 80.214955 },
+  "sohag, egypt": { "latitude": 26.76246285, "longitude": 32.090993613434186 },
+  "buraidah, saudi arabia": { "latitude": 26.331667, "longitude": 43.971667 },
+  "dekalb, united states": { "latitude": 41.8903447, "longitude": -88.7713953 },
+  "vlora, albania": { "latitude": 40.4707602, "longitude": 19.4912716 },
+  "sargodha, pakistan": { "latitude": 32.0889657, "longitude": 72.6776943 },
+  "enschede, netherlands": { "latitude": 52.2209855, "longitude": 6.8940537 },
+  "gavle, sweden": { "latitude": 60.6750132, "longitude": 17.1467019 },
+  "oulu, finland": { "latitude": 65.0118734, "longitude": 25.4716809 },
+  "nablus, palestine": { "latitude": 32.2205316, "longitude": 35.2569374 },
+  "fort collins, united states": {
+    "latitude": 40.5871782,
+    "longitude": -105.0770113
+  },
+  "salalah, oman": { "latitude": 17.0174945, "longitude": 54.1010923 },
+  "fayoum, egypt": {
+    "latitude": 29.340736999999997,
+    "longitude": 30.620104467964623
+  },
+  "vinh long, viet nam": { "latitude": 10.1203043, "longitude": 106.0125705 },
+  "edmonton, canada": { "latitude": 53.5462055, "longitude": -113.491241 },
+  "chikkaballapur, india": { "latitude": 13.0993488, "longitude": 77.3886322 },
+  "nigde, turkey": { "latitude": 38.0664691, "longitude": 34.7051438 },
+  "chakdara, pakistan": { "latitude": 34.6557106, "longitude": 72.0308093 },
+  "visakhapatnam, india": { "latitude": 17.7231276, "longitude": 83.3012842 },
+  "karbala, iraq": { "latitude": 32.6156423, "longitude": 44.0348194 },
+  "irvine, united states": { "latitude": 33.6856969, "longitude": -117.825981 },
+  "jalgaon, india": { "latitude": 21.0137606, "longitude": 75.5627048 },
+  "niteroi, brazil": { "latitude": -22.8884, "longitude": -43.1147 },
+  "mirzapur pole, india": "not found",
+  "south jakarta, indonesia": {
+    "latitude": -6.28381815,
+    "longitude": 106.80486325728526
+  },
+  "karawang, indonesia": { "latitude": -6.3050826, "longitude": 107.3002592 },
+  "nicosia, cyprus": { "latitude": 35.1746503, "longitude": 33.3638783 },
+  "al-qadisiyah, iraq": { "latitude": 31.9599617, "longitude": 45.1197814 },
+  "vicksburg, united states": {
+    "latitude": 32.3528055,
+    "longitude": -90.8777342
+  },
+  "zallaq, bahrain": { "latitude": 26.0484553, "longitude": 50.4869845 },
+  "foshan, china": { "latitude": 23.0499845, "longitude": 113.0983795 },
+  "changchun, china": { "latitude": 43.8844201, "longitude": 125.3180998 },
+  "amran, yemen": { "latitude": 16.230218, "longitude": 43.909834 },
+  "tripoli, libya": { "latitude": 32.896672, "longitude": 13.1777923 },
+  "guiyang, china": { "latitude": 25.7561647, "longitude": 112.72964 },
+  "nantong, china": { "latitude": 31.9827896, "longitude": 120.8904588 },
+  "vientiane capital, laos": {
+    "latitude": 17.9640988,
+    "longitude": 102.6133707
+  },
+  "ajman, united arab emirates": {
+    "latitude": 25.509128699999998,
+    "longitude": 55.361907248723114
+  },
+  "budapest, hungary": { "latitude": 47.4978789, "longitude": 19.0402383 },
+  "changhua, taiwan": { "latitude": 24.0755667, "longitude": 120.5444667 },
+  "kemaman, malaysia": { "latitude": 4.239674, "longitude": 103.191429899754 },
+  "thamar, yemen": { "latitude": 14.547042, "longitude": 44.452759 },
+  "cork, ireland": { "latitude": 51.897077, "longitude": -8.4654674 },
+  "alliston, canada": {
+    "latitude": 46.054487800000004,
+    "longitude": -62.625228911935594
+  },
+  "buon ma thuot, viet nam": {
+    "latitude": 12.6796827,
+    "longitude": 108.0447368
+  },
+  "cluj napoca, romania": { "latitude": 46.769379, "longitude": 23.5899542 },
+  "koulikoro, mali": {
+    "latitude": 13.48200225,
+    "longitude": -7.616857001709825
+  },
+  "fuyang, china": { "latitude": 30.0504847, "longitude": 119.9559051 },
+  "tabuk, saudi arabia": { "latitude": 28.3251866, "longitude": 37.6328648 },
+  "mysore, india": { "latitude": 12.3051828, "longitude": 76.6553609 },
+  "karlsruhe, germany": { "latitude": 49.0068705, "longitude": 8.4034195 },
+  "brest, france": { "latitude": 48.3905283, "longitude": -4.4860088 },
+  "patna, india": { "latitude": 25.6093239, "longitude": 85.1235252 },
+  "ooty, india": { "latitude": 11.4126769, "longitude": 76.7030504 },
+  "caiang mai, thailand": "not found",
+  "hamadan, iran": { "latitude": 34.9726302, "longitude": 48.6563818 },
+  "sakhnin, israel": { "latitude": 32.8638052, "longitude": 35.3023184 },
+  "west haven, united states": {
+    "latitude": 41.2706527,
+    "longitude": -72.9470471
+  },
+  "mascara, algeria": {
+    "latitude": 35.397838500000006,
+    "longitude": 0.24301949927219488
+  },
+  "forest lake, australia": {
+    "latitude": -27.620554,
+    "longitude": 152.96572210622003
+  },
+  "arica, chile": { "latitude": -18.4785288, "longitude": -70.3211394 },
+  "tadepalligudem, india": { "latitude": 16.8102437, "longitude": 81.526592 },
+  "toki, japan": { "latitude": 35.3524854, "longitude": 137.1834191 },
+  "atlanta, united states": {
+    "latitude": 33.7489924,
+    "longitude": -84.3902644
+  },
+  "szeged, hungary": { "latitude": 46.2546312, "longitude": 20.1486016 },
+  "gliwice, poland": {
+    "latitude": 50.30113145,
+    "longitude": 18.662347227971978
+  },
+  "guilin, china": { "latitude": 25.238704, "longitude": 110.1750728 },
+  "modena, italy": { "latitude": 44.5384728, "longitude": 10.935960870530739 },
+  "kasumigaura, japan": { "latitude": 36.1552115, "longitude": 140.2353307 },
+  "mianwali, pakistan": { "latitude": 32.5705533, "longitude": 71.5239763 },
+  "bushehr, iran": { "latitude": 28.8936645, "longitude": 51.3204877 },
+  "pilani, india": { "latitude": 28.3622661, "longitude": 75.6042342 },
+  "bien hoa, viet nam": { "latitude": 10.9507929, "longitude": 106.8263284 },
+  "anar, iran": { "latitude": 30.8723337, "longitude": 55.2716302 },
+  "gorakhpur, india": {
+    "latitude": 26.7780452,
+    "longitude": 83.41521037078049
+  },
+  "wuhu, china": { "latitude": 31.1800568, "longitude": 118.2141777 },
+  "bangkok 10300, thailand": {
+    "latitude": 13.7524938,
+    "longitude": 100.4935089
+  },
+  "otsu, japan": { "latitude": 35.0047096, "longitude": 135.8686739 },
+  "kashan, iran": { "latitude": 33.9876533, "longitude": 51.4428856 },
+  "tartu, estonia": { "latitude": 58.3801207, "longitude": 26.72245 },
+  "yala, thailand": { "latitude": 6.3344846, "longitude": 101.1409694 },
+  "tobruk, libya": { "latitude": 32.0773764, "longitude": 23.9599988 },
+  "rourkela, india": {
+    "latitude": 22.253999399999998,
+    "longitude": 84.8577520139704
+  },
+  "akron, united states": { "latitude": 41.083064, "longitude": -81.518485 },
+  "yancheng, china": { "latitude": 33.349559, "longitude": 120.1577019 },
+  "raipur, india": { "latitude": 21.2380912, "longitude": 81.6336993 },
+  "seiyun, yemen": { "latitude": 15.93747745, "longitude": 48.79220919519259 },
+  "mukalla, yemen": { "latitude": 14.5424624, "longitude": 49.1231345 },
+  "basra, iraq": { "latitude": 30.4952371, "longitude": 47.8090981 },
+  "yamanashi, thailand": "not found",
+  "lalitpur, nepal": { "latitude": 27.5482923, "longitude": 85.32293844156553 },
+  "ames, united states": { "latitude": 42.0267567, "longitude": -93.6170448 },
+  "laksi, thailand": {
+    "latitude": 13.88965495,
+    "longitude": 100.58255942794132
+  },
+  "tunis, tunisia": { "latitude": 36.8002068, "longitude": 10.1857757 },
+  "bolu, turkey": { "latitude": 40.6212099, "longitude": 31.6460259 },
+  "guna, india": { "latitude": 24.5, "longitude": 77.5 },
+  "sacramento, united states": {
+    "latitude": 38.5810606,
+    "longitude": -121.493895
+  },
+  "chiang mai university, thailand": {
+    "latitude": 18.80092635,
+    "longitude": 98.95215523032442
+  },
+  "arad, romania": { "latitude": 46.1753793, "longitude": 21.3196342 },
+  "quy nhon, socialist, viet nam": "not found",
+  "launceston, australia": {
+    "latitude": -41.4340813,
+    "longitude": 147.1373496
+  },
+  "mexico, mexico": { "latitude": 19.4326296, "longitude": -99.1331785 },
+  "barranquilla, colombia": {
+    "latitude": 11.0101922,
+    "longitude": -74.8231794084391
+  },
+  ", iraq": { "latitude": 33.0955793, "longitude": 44.1749775 },
+  "burlington, united states": {
+    "latitude": 44.4761601,
+    "longitude": -73.212906
+  },
+  "tomsk, russian federation": {
+    "latitude": 58.6124279,
+    "longitude": 82.0475315
+  },
+  "sivaganga, india": { "latitude": 9.851231, "longitude": 78.53047154820717 },
+  "swari, pakistan": { "latitude": 34.4774464, "longitude": 72.4858312 },
+  "phagwara, india": { "latitude": 31.2206734, "longitude": 75.7696463 },
+  "kozhikode, kerala, india": {
+    "latitude": 11.2450558,
+    "longitude": 75.7754716
+  },
+  "calicut, kerala, india": { "latitude": 11.2450558, "longitude": 75.7754716 },
+  "bar harbor, united states": {
+    "latitude": 44.3876378,
+    "longitude": -68.2043361
+  },
+  "seri kembangan, malaysia": {
+    "latitude": 3.0340649,
+    "longitude": 101.7055684
+  },
+  "sukabumi, indonesia": { "latitude": -6.9199289, "longitude": 106.9265095 },
+  "aceh besar, indonesia": {
+    "latitude": 5.3542491000000005,
+    "longitude": 95.49615075465553
+  },
+  "patuakhali, bangladesh": {
+    "latitude": 22.0084243,
+    "longitude": 90.38268272700293
+  },
+  "el oued province, algeria": {
+    "latitude": 33.215441,
+    "longitude": 7.155321399098325
+  },
+  "wuyishan, china": { "latitude": 27.7590448, "longitude": 118.0297688 },
+  "srikalahasti, india": {
+    "latitude": 13.7896547,
+    "longitude": 79.64707713075806
+  },
+  "thu dau mot, viet nam": { "latitude": 10.9808435, "longitude": 106.6537483 },
+  "lulea, sweden": { "latitude": 65.5831187, "longitude": 22.1459535 },
+  "johnson, united states": {
+    "latitude": 32.3766071,
+    "longitude": -97.3568623
+  },
+  "vadapalani, india": { "latitude": 10.99001, "longitude": 77.85194 },
+  "hobart, australia": { "latitude": -42.8825088, "longitude": 147.3281233 },
+  "banjarmasin, indonesia": {
+    "latitude": -3.3187496,
+    "longitude": 114.5925828
+  },
+  "banten, indonesia": { "latitude": -6.4453801, "longitude": 106.1375586 },
+  "sehore, india": { "latitude": 23.25, "longitude": 77.25 },
+  "malappuram, india": { "latitude": 11.0428925, "longitude": 76.0807838 },
+  "chelari, india": { "latitude": 11.1117844, "longitude": 75.8900722 },
+  "sakonnahkon, thailand": "not found",
+  "astana, kazakhstan": {
+    "latitude": 51.115320749999995,
+    "longitude": 71.46636599643543
+  },
+  "ludhiana, india": { "latitude": 30.9090157, "longitude": 75.851601 },
+  "yobe, nigeria": { "latitude": 12.1233242, "longitude": 11.5065937 },
+  "lusaka, zambia": { "latitude": -15.357609, "longitude": 29.1653092 },
+  "dali, china": { "latitude": 25.6074778, "longitude": 100.2651597 },
+  "helwan, egypt": { "latitude": 29.8500001, "longitude": 31.333333 },
+  "kennesaw, united states": {
+    "latitude": 34.0234337,
+    "longitude": -84.6154897
+  },
+  "wagga wagga, australia": { "latitude": -35.115, "longitude": 147.3677778 },
+  "liberec, czech republic": {
+    "latitude": 50.7702648,
+    "longitude": 15.0583947
+  },
+  "dhulikhel, nepal": {
+    "latitude": 27.61765575,
+    "longitude": 85.56349552503448
+  },
+  "tarragona, spain": { "latitude": 41.1172364, "longitude": 1.2546057 },
+  "mountain view, united states": {
+    "latitude": 37.3893889,
+    "longitude": -122.0832101
+  },
+  "deerfield, united states": {
+    "latitude": 42.1711365,
+    "longitude": -87.8445119
+  },
+  "bulwer island, australia": {
+    "latitude": -27.4044273,
+    "longitude": 153.1393865
+  },
+  "reykjavik, iceland": { "latitude": 64.145981, "longitude": -21.9422367 },
+  "santa clara, united states": {
+    "latitude": 37.2333253,
+    "longitude": -121.6846349
+  },
+  "maringa, brazil": { "latitude": -23.425269, "longitude": -51.9382078 },
+  "amethi, india": { "latitude": 26.1637596, "longitude": 81.88272397073658 },
+  "el jadida, morocco": { "latitude": 33.2433309, "longitude": -8.49884 },
+  "bousaada, algeria": { "latitude": 35.2133123, "longitude": 4.1809702 },
+  "yuxi, china": { "latitude": 24.3511487, "longitude": 102.527044 },
+  "tempe, united states": { "latitude": 33.4255117, "longitude": -111.940016 },
+  "beaumont, united states": {
+    "latitude": 30.0860459,
+    "longitude": -94.1018461
+  },
+  "badulla, sri lanka": { "latitude": 6.9900353, "longitude": 81.0570315 },
+  "jahrom, iran": { "latitude": 28.5014092, "longitude": 53.5695867 },
+  "yasuj, iran": { "latitude": 30.6681785, "longitude": 51.581916 },
+  "charbagh, pakistan": { "latitude": 34.6269593, "longitude": 72.9857939 },
+  "noakhali, bangladesh": {
+    "latitude": 22.2540799,
+    "longitude": 91.17143993859978
+  },
+  "sylhet, bangladesh": { "latitude": 24.7358854, "longitude": 91.6852476 },
+  "kishoreganj, bangladesh": { "latitude": 25.899303, "longitude": 89.0169223 },
+  "lima, peru": { "latitude": -12.0621065, "longitude": -77.0365256 },
+  "katra, india": { "latitude": 26.2430103, "longitude": 85.6505848757009 },
+  "meerut, india": { "latitude": 28.9826533, "longitude": 77.7081013 },
+  "salamanca, spain": { "latitude": 40.9651572, "longitude": -5.6640182 },
+  "lhokseumawe, indonesia": { "latitude": 5.1789659, "longitude": 97.1480544 },
+  "bogor, indonesia": { "latitude": -6.5962986, "longitude": 106.7972421 },
+  "aligarh, india": { "latitude": 27.833333, "longitude": 78.166667 },
+  "minami-saitama district, japan": {
+    "latitude": 36.0908955,
+    "longitude": 139.2363597
+  },
+  "dusseldorf, germany": { "latitude": 51.2254018, "longitude": 6.7763137 },
+  "mishan, china": { "latitude": 45.4701565, "longitude": 132.1986356 },
+  "medford, united states": {
+    "latitude": 42.4182074,
+    "longitude": -71.1098502
+  },
+  "baise, china": { "latitude": 23.9053605, "longitude": 106.6148824 },
+  "sichuan, china": { "latitude": 30.5000001, "longitude": 102.4999999 },
+  "seri manjung, malaysia": { "latitude": 4.1912768, "longitude": 100.6592247 },
+  "sungai petani, malaysia": {
+    "latitude": 5.6435195,
+    "longitude": 100.4869513
+  },
+  "xiangtan, china": { "latitude": 27.7827319, "longitude": 112.9455981 },
+  "nan, thailand": { "latitude": 18.7544594, "longitude": 100.624804 },
+  "uji, japan": { "latitude": 34.8933744, "longitude": 135.8059219 },
+  "st. margrethen, switzerland": {
+    "latitude": 47.4510277,
+    "longitude": 9.6410249
+  },
+  "rio de janeiro, brazil": {
+    "latitude": -22.9110137,
+    "longitude": -43.2093727
+  },
+  "saskatoon, canada": { "latitude": 52.131802, "longitude": -106.660767 },
+  "krasnoyarsk, russian federation": {
+    "latitude": 56.0091173,
+    "longitude": 92.872586
+  },
+  "besancon, france": { "latitude": 47.2380222, "longitude": 6.0243622 },
+  "grand rapids, united states": {
+    "latitude": 42.9632425,
+    "longitude": -85.6678639
+  },
+  "amnat charoen, thailand": {
+    "latitude": 15.9949473,
+    "longitude": 104.7328575
+  },
+  "nakorn ratchasima, thailand": {
+    "latitude": 14.884424500000002,
+    "longitude": 101.90462924870856
+  },
+  "aswan, egypt": { "latitude": 24.091071, "longitude": 32.897306 },
+  "karaikal, india": { "latitude": 10.91571, "longitude": 79.8375761 },
+  "noordwijk aan zee, netherlands": {
+    "latitude": 52.2473908,
+    "longitude": 4.4337384
+  },
+  "howrah, india": { "latitude": 22.5736296, "longitude": 88.3251045 },
+  "gemas, malaysia": { "latitude": 2.5812964, "longitude": 102.6117487 },
+  "high point, united states": {
+    "latitude": 35.9556924,
+    "longitude": -80.0053176
+  },
+  "upton, united states": { "latitude": 31.3720387, "longitude": -102.0386055 },
+  "bangkhen, bangkok, thailand": {
+    "latitude": 13.8526178,
+    "longitude": 100.5528356
+  },
+  "yekaterinburg, russian federation": {
+    "latitude": 56.839104,
+    "longitude": 60.60825
+  },
+  "baotou, china": { "latitude": 40.6174777, "longitude": 109.944912 },
+  "zibo, china": { "latitude": 36.819626, "longitude": 117.980675 },
+  "orange, united states": { "latitude": 33.750631, "longitude": -117.8722311 },
+  "kherva, india": { "latitude": 23.5441476, "longitude": 72.441342 },
+  "rajkot, india": { "latitude": 22.3053263, "longitude": 70.8028377 },
+  "osnabruck, germany": {
+    "latitude": 52.37265095,
+    "longitude": 8.161049572938472
+  },
+  "durham, united kingdom": { "latitude": 54.666667, "longitude": -1.75 },
+  "sambalpur, india": {
+    "latitude": 21.4706422,
+    "longitude": 83.98368580351055
+  },
+  "rasht, iran": { "latitude": 37.2793607, "longitude": 49.5846102 },
+  "ancona, italy": {
+    "latitude": 43.480120400000004,
+    "longitude": 13.218790609151764
+  },
+  "floridablanca, colombia": {
+    "latitude": 7.0625358,
+    "longitude": -73.0858228
+  },
+  "maastricht, netherlands": {
+    "latitude": 50.85798545,
+    "longitude": 5.6969881818221095
+  },
+  "genk, belgium": { "latitude": 50.9654864, "longitude": 5.5001456 },
+  "vilnius, lithuania": { "latitude": 54.6870458, "longitude": 25.2829111 },
+  "rotterdam, netherlands": { "latitude": 51.9244424, "longitude": 4.47775 },
+  "rozzano, italy": { "latitude": 45.3832366, "longitude": 9.1541309 },
+  "indianapolis, united states": {
+    "latitude": 39.7683331,
+    "longitude": -86.1583502
+  },
+  "creteil, france": { "latitude": 48.7771486, "longitude": 2.4530731 },
+  "leipzig, germany": { "latitude": 51.3406321, "longitude": 12.3747329 },
+  "regensburg, germany": { "latitude": 49.0195333, "longitude": 12.0974869 },
+  "santiago, chile": { "latitude": -33.4377756, "longitude": -70.6504502 },
+  "udine, italy": { "latitude": 46.0634632, "longitude": 13.2358377 },
+  "baltimore, united states": {
+    "latitude": 39.2908816,
+    "longitude": -76.610759
+  },
+  "parma, italy": { "latitude": 44.8013678, "longitude": 10.3280833 },
+  "hollywood, united states": {
+    "latitude": 34.0980031,
+    "longitude": -118.329523
+  },
+  "chermside, australia": {
+    "latitude": -27.384991,
+    "longitude": 153.03332196196595
+  },
+  "massa, italy": { "latitude": 44.0359323, "longitude": 10.1395519 },
+  "bharuch, india": { "latitude": 21.7080427, "longitude": 72.9956936 },
+  "clermont-ferrand, france": {
+    "latitude": 45.7774551,
+    "longitude": 3.0819427
+  },
+  "baku, azerbaijan": {
+    "latitude": 40.163999149999995,
+    "longitude": 50.27770925520258
+  },
+  "sfax, tunisia": {
+    "latitude": 34.723238699999996,
+    "longitude": 10.335847425638779
+  },
+  "uganda, uganda": { "latitude": 1.5333554, "longitude": 32.2166578 },
+  "palapye, botswana": { "latitude": -22.536888, "longitude": 27.123513 },
+  "portsmouth, united kingdom": {
+    "latitude": 50.800031,
+    "longitude": -1.0906023
+  },
+  "rupnagar, india": { "latitude": 30.983333, "longitude": 76.516667 },
+  "paralakhemundi, india": {
+    "latitude": 18.843222750000002,
+    "longitude": 84.05014548226325
+  },
+  "damascus, syrian arab republic": {
+    "latitude": 33.5130695,
+    "longitude": 36.3095814
+  },
+  "rewa, india": { "latitude": 24.75, "longitude": 81.5 },
+  "huancayo, peru": { "latitude": -12.068098, "longitude": -75.2100953 },
+  "guangxi, china": { "latitude": 24.0, "longitude": 109.0 },
+  "hainan, china": { "latitude": 19.2000001, "longitude": 109.5999999 },
+  "jodhpur, india": { "latitude": 26.2967719, "longitude": 73.0351433 },
+  "roorkee, india": { "latitude": 29.8693496, "longitude": 77.8902124 },
+  "huntsville, united states": {
+    "latitude": 34.729847,
+    "longitude": -86.5859011
+  },
+  "stellenbosch, south africa": {
+    "latitude": -33.934444,
+    "longitude": 18.869167
+  },
+  "jeonju, south korea": { "latitude": 35.8237631, "longitude": 127.1472805 },
+  "qinzhou, china": { "latitude": 34.5797531, "longitude": 105.7062921 },
+  "ouagadougou, burkina faso": {
+    "latitude": 12.3681873,
+    "longitude": -1.5270944
+  },
+  "sokoto, nigeria": { "latitude": 13.0611195, "longitude": 5.3152203 },
+  "can tho, viet nam": { "latitude": 10.0364634, "longitude": 105.7875821 },
+  "sodo, ethiopia": { "latitude": 6.864163, "longitude": 37.762762 },
+  "bergen, norway": { "latitude": 60.3943055, "longitude": 5.3259192 },
+  "dinajpur, bangladesh": { "latitude": 25.6260712, "longitude": 88.6346228 },
+  "kabul, afghanistan": { "latitude": 34.5260109, "longitude": 69.1776838 },
+  "damavand, iran": { "latitude": 35.954365, "longitude": 52.1103419 },
+  "semnan, iran": { "latitude": 35.3843145, "longitude": 54.6209302 },
+  "bengbu, china": { "latitude": 30.7904211, "longitude": 93.1447641 },
+  "ardabil, iran": { "latitude": 38.4583983, "longitude": 47.9313001 },
+  "angeles city, philippines": {
+    "latitude": 15.1389351,
+    "longitude": 120.5875321
+  },
+  ", sri lanka": { "latitude": 7.5554942, "longitude": 80.7137847 },
+  "sabzevar, iran": { "latitude": 36.2134053, "longitude": 57.6808799 },
+  "ismailia, egypt": { "latitude": 30.6043775, "longitude": 32.2770825 },
+  "damanhour, egypt": { "latitude": 31.0374982, "longitude": 30.4710625 },
+  "st andrews, united kingdom": {
+    "latitude": 56.3403902,
+    "longitude": -2.7955844
+  },
+  "xinyang, china": { "latitude": 32.130793, "longitude": 114.0773267 },
+  "ternate, indonesia": { "latitude": 0.7852338, "longitude": 127.3831752 },
+  "kendari, indonesia": { "latitude": -3.9918068, "longitude": 122.5180066 },
+  "lincoln, united states": {
+    "latitude": 40.8088861,
+    "longitude": -96.7077751
+  },
+  "bloemfontein, south africa": {
+    "latitude": -29.116395,
+    "longitude": 26.215496
+  },
+  "porto alegre, brazil": { "latitude": -30.0324999, "longitude": -51.2303767 },
+  "hanover, united states": { "latitude": 37.744783, "longitude": -77.4464165 },
+  "ceske budejovice, czech republic": {
+    "latitude": 48.9747357,
+    "longitude": 14.474285
+  },
+  "gunupur, india": { "latitude": 19.12686265, "longitude": 83.76643575651146 },
+  "koszalin, poland": {
+    "latitude": 54.20717985,
+    "longitude": 16.21754108699583
+  },
+  "okazaki, japan": { "latitude": 34.950974, "longitude": 137.260842 },
+  "blagnac, france": { "latitude": 43.6434, "longitude": 1.37799 },
+  "thiruvananthapuram, india": {
+    "latitude": 8.4882267,
+    "longitude": 76.947551
+  },
+  "kasaragod, india": { "latitude": 12.5035577, "longitude": 74.9907022 },
+  "kharagpur, india": { "latitude": 25.132982, "longitude": 86.52484857739515 },
+  "manhattan, united states": {
+    "latitude": 40.788655250000005,
+    "longitude": -73.9603027827792
+  },
+  "kota tangerang, indonesia": {
+    "latitude": -6.1761924,
+    "longitude": 106.6382161
+  },
+  "kamphaeng phet, thailand": {
+    "latitude": 16.4183581,
+    "longitude": 99.6111616
+  },
+  "fort pierce, united states": {
+    "latitude": 27.4467056,
+    "longitude": -80.3256056
+  },
+  "huizhou, china": { "latitude": 23.1125153, "longitude": 114.4127007 },
+  "gifu, japan": { "latitude": 35.7867449, "longitude": 137.0460777 },
+  "sulaymaniyah, iraq": { "latitude": 35.5570501, "longitude": 45.4425963 },
+  "indore, india": { "latitude": 22.7203616, "longitude": 75.8681996 },
+  "puduvayal, india": { "latitude": 10.5389099, "longitude": 79.1033864 },
+  "stirling, united kingdom": {
+    "latitude": 56.1181242,
+    "longitude": -3.9360012
+  },
+  "shouguang, china": { "latitude": 36.8762356, "longitude": 118.7322549 },
+  "ujain, india": "not found",
+  "wudil, nigeria": { "latitude": 11.8089, "longitude": 8.84463 },
+  "hadano, japan": { "latitude": 35.3746619, "longitude": 139.2420729 },
+  "saimai, khlongthanon, bangkok, thailand": "not found",
+  "san marino, san marino": { "latitude": 43.9458623, "longitude": 12.458306 },
+  "sippy downs, australia": {
+    "latitude": -26.7257935,
+    "longitude": 153.07837089055133
+  },
+  "tallahassee, united states": {
+    "latitude": 30.4380832,
+    "longitude": -84.2809332
+  },
+  "jena, germany": { "latitude": 50.9281717, "longitude": 11.5879359 },
+  "toyota, japan": { "latitude": 35.15195, "longitude": 137.301478 },
+  "gangneung, south korea": {
+    "latitude": 37.7525313,
+    "longitude": 128.8759523
+  },
+  "algiers, algeria": { "latitude": 36.7753606, "longitude": 3.0601882 },
+  "fasa, iran": { "latitude": 28.9366395, "longitude": 53.6510677 },
+  "yichang, china": { "latitude": 30.694088, "longitude": 111.2803074 },
+  "sabratha, libya": { "latitude": 32.7906211, "longitude": 12.4826746 },
+  "antwerpen, belgium": { "latitude": 51.2211097, "longitude": 4.3997081 },
+  "erode, india": { "latitude": 11.3306483, "longitude": 77.7276519 },
+  "dong thap, viet nam": { "latitude": 10.590424, "longitude": 105.6802341 },
+  "pomona, united states": {
+    "latitude": 34.0553813,
+    "longitude": -117.7517496
+  },
+  "glastonbury, united states": {
+    "latitude": 41.7123218,
+    "longitude": -72.608146
+  },
+  "maputo, mozambique": { "latitude": -25.966213, "longitude": 32.56745 },
+  "coral gables, united states": {
+    "latitude": 25.7331105,
+    "longitude": -80.2585107
+  },
+  "geneva, switzerland": {
+    "latitude": 46.2047169,
+    "longitude": 6.1423106290939335
+  },
+  "durban, south africa": { "latitude": -29.861825, "longitude": 31.009909 },
+  "windhoek, namibia": { "latitude": -22.5776104, "longitude": 17.0772739 },
+  "west java, indonesia": { "latitude": -6.8891904, "longitude": 107.6404716 },
+  "zaandam, netherlands": { "latitude": 52.4424926, "longitude": 4.8298607 },
+  "washington, united states": {
+    "latitude": 38.8950368,
+    "longitude": -77.0365427
+  },
+  "dakar, senegal": { "latitude": 14.693425, "longitude": -17.447938 }
+}

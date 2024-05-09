@@ -2,3 +2,6 @@
 /temp.py
 /logs
 /dags/__pycache__
+/raw_data/raw*
+/cleaned_data/*
+!/cleaned_data/*.md
