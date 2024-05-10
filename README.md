@@ -14,6 +14,8 @@ This repository contains all main files for the final project of group "One Pun 
 4. Connect to the Chula VPN (if you are not in the Chula network)
 5. Run the docker compose command `docker-compose up --build`
 6. Open a browser and go to `localhost:8080` to access the Airflow dashboard with the username and password as `airflow`
-7. Run the DAGs (Download first, then Clean) in the Airflow dashboard
+7. Run the DAGs in the Airflow dashboard
+   - You can run 'download_scraped_data_dag' to download the scraped data from the Scopus API, then it will trigger 'clean_data_to_redis_dag' by itself
+   - or you can run 'download_scraped_data_from_github_dag' to download the scraped data from GitHub, then it will trigger 'clean_data_to_redis_dag' by itself
 8. Run the streamlit app by running `streamlit run streamlit_viz_code/main.py` in the terminal
-9. Open a browser and go to `localhost:8501` to access the Streamlit app
+9.  Open a browser and go to `localhost:8501` to access the Streamlit app

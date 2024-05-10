@@ -54,12 +54,11 @@ def print_random_paper():
     print(r.lrange(f"paper:{temp}:affiliations", 0, -1))
 
 
-def download_scraped_data():
-    # url = 'https://github.com/mrmatchax/DataScienceProject/raw/master/raw_scopus.zip'
-    # urllib.request.urlretrieve(url, '/opt/raw_data/raw_scraped_data.zip')
-    # with zipfile.ZipFile('/opt/raw_data/raw_scraped_data.zip', 'r') as zip_ref:
-    #     zip_ref.extractall('/opt/raw_data/raw_scraped_data')
-    pass
+def download_scraped_data_from_github():
+    url = 'https://github.com/mrmatchax/DataScienceProject/raw/master/raw_scopus.zip'
+    urllib.request.urlretrieve(url, '/opt/raw_data/raw_scraped_data.zip')
+    with zipfile.ZipFile('/opt/raw_data/raw_scraped_data.zip', 'r') as zip_ref:
+        zip_ref.extractall('/opt/raw_data/raw_scraped_data')
 
 with DAG(
     dag_id='clean_data_to_redis_dag',
@@ -91,7 +90,7 @@ with DAG(
 with DAG(
     dag_id='download_scraped_data_dag',
     default_args=default_args,
-    description='A DAG to download raw paper data',
+    description='A DAG to download raw paper data from scopus',
     start_date=datetime(2023, 1, 1),
     catchup=False,
     # schedule_interval='@daily',
@@ -105,6 +104,27 @@ with DAG(
     download_scraped_data = PythonOperator(
         task_id='download_scraped_data',
         python_callable=scrapData,
+    )
+
+    download_scraped_data >> trigger_clean_data_to_redis_dag
+
+with DAG(
+    dag_id='download_scraped_data_from_github_dag',
+    default_args=default_args,
+    description='A DAG to download raw paper data from GitHub',
+    start_date=datetime(2023, 1, 1),
+    catchup=False,
+    # schedule_interval='@daily',
+) as dag:
+
+    trigger_clean_data_to_redis_dag = TriggerDagRunOperator(
+        task_id='trigger_clean_data_to_redis_dag',
+        trigger_dag_id='clean_data_to_redis_dag',
+    )
+
+    download_scraped_data = PythonOperator(
+        task_id='download_scraped_data',
+        python_callable=download_scraped_data_from_github
     )
 
     download_scraped_data >> trigger_clean_data_to_redis_dag

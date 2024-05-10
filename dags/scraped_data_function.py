@@ -118,7 +118,8 @@ def scrapData():
     for year in range(2018, 2024):
         print("I'm in the loop")
         current_path = "/opt/raw_data/raw_scraped_data/"
-
+        if not os.path.exists(current_path):
+            os.makedirs(current_path)
         # get the results
         print("Before query")
         # use ScopusSearch to get the results, query by year, and subject area engineering
