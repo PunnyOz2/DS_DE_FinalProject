@@ -1,0 +1,7 @@
+redis
+pandas
+geopy
+streamlit
+plotly
+pydeck
+watchdog

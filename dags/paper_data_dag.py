@@ -86,12 +86,7 @@ with DAG(
         python_callable=clean_caller,
     )
 
-    trigger_viz_dag = TriggerDagRunOperator(
-        task_id='trigger_viz_dag',
-        trigger_dag_id='viz_dag',
-    )
-
-    [given_data_cleaning, scraped_data_cleaning] >> read_data_to_redis >> trigger_viz_dag
+    [given_data_cleaning, scraped_data_cleaning] >> read_data_to_redis
 
 with DAG(
     dag_id='download_scraped_data_dag',
