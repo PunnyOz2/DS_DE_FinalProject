@@ -5,3 +5,4 @@
 /raw_data/raw*
 /cleaned_data/*
 !/cleaned_data/*.md
+/streamlit_viz_code/__pycache__
