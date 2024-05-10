@@ -82,6 +82,7 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/locationsMapper.json:/opt/locationsMapper.json
     - ${AIRFLOW_PROJ_DIR:-.}/locationsMapper_scraped.json:/opt/locationsMapper_scraped.json
     - ${AIRFLOW_PROJ_DIR:-.}/code:/opt/code
+    - ${AIRFLOW_PROJ_DIR:-.}/pybliometrics.cfg:/opt/pybliometrics.cfg
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on

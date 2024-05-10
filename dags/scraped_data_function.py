@@ -4,6 +4,11 @@ from tqdm import tqdm
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.exc import GeocoderTimedOut
+import os
+import traceback
+import pybliometrics
+from pybliometrics.scopus import ScopusSearch, AbstractRetrieval
+from pybliometrics.scopus.utils import config, create_config
 
 geolocator = Nominatim(user_agent="data-sci-project")
 geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
@@ -105,3 +110,48 @@ def clean_caller():
     clean(df_2021,2021)
     clean(df_2022,2022)
     clean(df_2023,2023)
+
+
+def scrapData():
+    print("I'm in")
+    create_config(['c8342252e382a94a14b30bcb8372a48e'])
+    for year in range(2018, 2024):
+        print("I'm in the loop")
+        current_path = "/opt/raw_data/raw_scraped_data/"
+
+        # get the results
+        print("Before query")
+        # use ScopusSearch to get the results, query by year, and subject area engineering
+        # 60028190 chula afid
+        # search for affiliation thailand
+        x = ScopusSearch(
+            f"SUBJAREA ( ENGI ) AND PUBYEAR = {year} AND AFFILCOUNTRY(THAILAND) AND NOT AF-ID (60028190)",
+            view="COMPLETE",
+            verbose=True,
+        )
+
+        print("After query")
+        print(f"Year: {year} , Results count: {len(x.results)}")
+
+        df = pd.DataFrame(pd.DataFrame(x.results))
+        df = df.head(1000)
+
+        ref_col = []
+        for eid in tqdm(df.eid):
+            try:
+                # get the abstract
+                abstract = AbstractRetrieval(eid, view="FULL")
+                refs = []
+                #Store the references
+                for ref in abstract.references:
+                    ref_doc = ref._asdict()
+                    refs.append(ref_doc)
+                ref_col.append(refs)
+            except Exception as e:
+                # print(f"Error: {e}")
+                # print(f"Error in {eid}")
+                # traceback.print_exc()
+                ref_col.append([])
+        df["ref_docs"] = ref_col
+        # save the dataframe to a csv file
+        df.to_csv(os.path.join(current_path, "df" + str(year) + ".csv"), index=False) 

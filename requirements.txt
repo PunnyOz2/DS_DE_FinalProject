@@ -3,3 +3,4 @@ geopy
 streamlit
 pydeck
 plotly
+pybliometrics

@@ -11,7 +11,7 @@ from airflow.operators.python_operator import PythonOperator
 from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 
 from given_data_function import cleaningProcess
-from scraped_data_function import clean_caller
+from scraped_data_function import clean_caller, scrapData
 default_args = {
     'owner': 'Pun',
     'retries': 5,
@@ -55,31 +55,11 @@ def print_random_paper():
 
 
 def download_scraped_data():
-    url = 'https://github.com/mrmatchax/DataScienceProject/raw/master/raw_scopus.zip'
-    urllib.request.urlretrieve(url, '/opt/raw_data/raw_scraped_data.zip')
-    with zipfile.ZipFile('/opt/raw_data/raw_scraped_data.zip', 'r') as zip_ref:
-        zip_ref.extractall('/opt/raw_data/raw_scraped_data')
-
-with DAG(
-    dag_id='viz_dag',
-    default_args=default_args,
-    description='A DAG to visualize paper_data',
-    start_date=datetime(2023, 1, 1),
-    catchup=False,
-    # schedule_interval='@daily',
-) as dag:
-
-    print_random_paper = PythonOperator(
-        task_id='print_random_paper',
-        python_callable=print_random_paper,
-    )
-
-    visualize_data_streamlit = BashOperator(
-        task_id='visualize_data_streamlit',
-        bash_command='streamlit run /opt/code/main.py',
-    )
-
-    print_random_paper >> visualize_data_streamlit
+    # url = 'https://github.com/mrmatchax/DataScienceProject/raw/master/raw_scopus.zip'
+    # urllib.request.urlretrieve(url, '/opt/raw_data/raw_scraped_data.zip')
+    # with zipfile.ZipFile('/opt/raw_data/raw_scraped_data.zip', 'r') as zip_ref:
+    #     zip_ref.extractall('/opt/raw_data/raw_scraped_data')
+    pass
 
 with DAG(
     dag_id='clean_data_to_redis_dag',
@@ -129,7 +109,7 @@ with DAG(
 
     download_scraped_data = PythonOperator(
         task_id='download_scraped_data',
-        python_callable=download_scraped_data,
+        python_callable=scrapData,
     )
 
     download_scraped_data >> trigger_clean_data_to_redis_dag
